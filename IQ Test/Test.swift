@@ -13,10 +13,17 @@ class Test {
     let questionsCount = 40
     var questions: [Question] = []
     
+    func someToGitFunction ( _ a: Int) {
+        print("Hello Git")
+    }
+    
+    func someotherToGitFunction ( _ a: Int) {
+        print("Hello Git")
+    }
     
      func parse(_ testName: String) -> Test {
         let test = Test()
-        test.testNumber = String(testName.characters.last!)
+        test.testNumber = String(testName.last!)
         
         let questionData = NSLocalizedString("questions-en.txt", comment: "comment").contentsOrBlank().components(separatedBy: "TESTEND").filter { $0.contains("T\(test.testNumber!)Q1") }[0].components(separatedBy: "T\(test.testNumber!)Q").filter { $0 != "\n" && $0 != ""}
         
