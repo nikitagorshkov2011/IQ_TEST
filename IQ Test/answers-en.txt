@@ -1,0 +1,204 @@
+1~1~2
+1~2~1
+1~3~2~add 1, 1, 2, 2, 3, 3, 4, 4;
+1~4~5~in the others the sum of the first two numbers is equal to the sum of the second two numbers, for example 5 + 2 = 6 + 1
+1~5~3
+1~6~4~lines across proceed +1, +2, +3. Lines down proceed +3, +2, +1
+1~7~3~in all the others the black circle is connected to three white circles. In C it is only connected to two white circles
+1~8~2,6
+1~9~2
+1~10~2~the rest are the same figure rotated
+1~11~2~12 noon less 44 minutes = 11.16, 11.16 less 48 minutes = 10.28, 9 am plus 88 minutes (44 x 2) = 10.28
+1~12~3,6
+1~13~4~it is a three-dimensional figure. The rest are all two-dimensional figures
+1~14~3
+1~15~2~in each line and column, each of the three rings is shaded black once
+1~16~3
+1~17~3~WIN BOAR = rainbow. The foods are spaghetti (PAST EIGHT), macaroni (I CAN ROAM), pancake (CAN PEAK) and chocolate (COOL CHEAT)
+1~18~4~looking across at the three circles, the number in the middle is the product of the two numbers in the same segment in the other two circles. Thus, 3 x 2 = 6, 7 x 3 = 21 and 4 x 4 = 16
+1~19~2~BUTTER. The others are: mohair, sateen, damask, calico
+1~20~3
+1~21~4~in each line across and down the arrows point in each of three directions left, right and down. The number of arrows increases 1, 2, 3 in each row
+1~22~1
+1~23~6~in all the others there are two spaces in the alphabet between the first two letters and no space between the last two, eg AbcDE
+1~24~1,6~the sequence progresses ?3, +2
+1~25~3~all words can be prefixed with PAR to form another word – parable, parrot, parson, parking, partake
+1~26~2,6
+1~27~3~in all the others the first two digits are added together to obtain the third and fourth digits, and the second digit is added to the third and fourth digits to obtain the fifth and sixth digits. For example, with 681422, 6 + 8 = 14 + 8 = 22
+1~28~2,4,5
+1~29~2~sexed Utah = exhausted. The words meaning out of this world are: wonderful (flow under), unbelievable (enviable blue), incredible (icier blend)
+1~30~3
+1~31~3~The black dot is moving up (then down) by one position at each stage;
+1~32~2~12 noon less 37 minutes = 11.23, 11.23 less nine minutes = 11.14.10 am plus 74 minutes (2 ? 37) = 11.14
+1~33~2,4
+1~34~3~when joined together each pair of words forms another word – brokerage, prosecute, daredevil
+1~35~2~it is a natural material, the rest are man-made
+1~36~4~so that one dot appears in the triangle and one circle; and the other dot appears in the triangle and three circles
+1~37~2
+1~38~2
+1~39~4~RUBLEO (rouble). The others are: earwig, scarab, tsetse, hornet
+1~40~2
+TESTEND
+2~1~5~the number of white dots is increased by one each time, both vertically and horizontally, and all white dots are connected;
+2~2~2~PART: RAMPART and PARTRIDGE;
+2~3~2~lines across proceed +2, –3, +2. Lines down proceed –3, +2, –3;
+2~4~2
+2~5~5~(8 + 7) * 5 = 75;
+2~6~3~each opposite corner block of four squares are identical;
+2~7~2~black objects turn to white and vice versa;
+2~8~1~the sequence proceeds +4, /2, +4, etc;
+2~9~3,4
+2~10~2~in lines and columns, add the first three numbers to arrive at the fourth number;
+2~11~1
+2~12~2~Tile 7 is incorrect, and should be replaced by tile B;
+2~13~2,4
+2~14~3
+2~15~4~The lower circles’ symbols combine to form the circle above, but similar symbols disappear;
+2~16~4
+2~17~2~it is the jaw bone, the rest are bones in the leg;
+2~18~3~12 noon = 12 noon, 1 pm = 12.43, 2 pm = 1.26, 3 pm = 2.09, 4 pm = 2.52, +6 hours = 10 pm;
+2~19~1~the first column is multiplied by the third column, and the second column deducted: (5 * 7) – 1 = 34;
+2~20~1~each line across and down contains five black dots and four white dots;
+2~21~1~the figure is tumbling 45° at each stage and alternates white/black/striped;
+2~22~2~all words contain an embedded tree – do(pine)ss, uncl(oak)ing, dishw(ash)er, cross(fir)e;
+2~23~4~there are two alternate sequences: +14, –97;
+2~24~2
+2~25~1,4,7~the sequence progresses /3, +3, *3, –3 repeated;
+2~26~4~it contains a triangle in a circle, a circle in a triangle (with the same orientation of the triangle) and a black dot in a square;
+2~27~2~reversing the first analogy, the four black squares become one white square in the centre with four arms attached to it;
+2~28~3~91 / 13;
+2~29~3
+2~30~3
+2~31~1~it is the sum of the two digits (9 + 8) in the quadrant directly opposite;
+2~32~5~so that the dot appears in two circles and the square;
+2~33~2~the next cube number below 64 (4 * 4 * 4) is 27 (3 * 3 * 3). In order to construct a solid cube, therefore, with none left over, 59 – 27 = 32 blocks need to be taken away;
+2~34~2~reverse each line and discard the third figure from the end each time;
+2~35~4~(73 + 25) / 2;
+2~36~2~8 * 1 = 8, 8 + 0 = 8;
+2~37~4~the last two rows of figures repeat the first two rows of figures in reverse;
+2~38~4~substitute Roman numerals for numbers to read: red, lime, navy, gold and blue. TA101 spells TAXI (10 = X and I = 1);
+2~39~2~each number in the segment at the bottom is the sum of the four numbers in the sections either side. Thus: 8 + 3 + 4 + 3 = 18;
+2~40~5
+TESTEND
+3~1~5~only lines that appear three times in the same position in the first three squares are carried forward to the final square;
+3~2~4~the rest are percussion instruments;
+3~3~5,6~there are two sequences going from top to bottom of the columns as follows: AbCdeFghiJklmnO, and ZyxWvutSrqpoNmlkjiH;
+3~4~2~in the other numbers add the first and last digits to arrive at the middle digit;
+3~5~4~the figures are in the same order around the body;
+3~6~4
+3~7~4~to each arc, add a quarter of a circle clockwise;
+3~8~2~all the other words start and finish with consecutive letters of the alphabet, eg carried;
+3~9~5,6~there are two alternate sequences. Add 5 starting at 1. Subtract 5 starting at 50;
+3~10~1~acellular, acerbated, acerbates, acescence, acescency, acetabula, acetamide, acetified;
+3~11~4
+3~12~2~start at the bottom lefthand corner square and work along the bottom row, then back along the next row up etc, repeating the numbers 38219;
+3~13~1~the numbers in successive triangles add up to 8, 9, 10, 11, 12, 13;
+3~14~5~each line across and down contains one each of the three symbols. In each line one symbol is black, and one is upside down;
+3~15~3~NFOLE = felon;
+3~16~1,5,7~the numbers spelled out below are the number of sides in the figures in which they appear;
+3~17~5~6 * 9 = 54 (reading down the middle two blocks);
+3~18~2
+3~19~5~72 / 12 * 100;
+3~20~3~looking across and down the triangles turn through 90°;
+3~21~4~the first letter moves three places in the alphabet forwards: FghI; the second letter moves four letters in the alphabet forwards: RstuV; the third letter moves two places in the alphabet backwards: JiH;
+3~22~2
+3~23~3~each circle is repeated rotated;
+3~24~1,5~OPPORTUNE: add the letters p and u
+3~25~1~there are two alternate sequences: +3 and –4;
+3~26~3
+3~27~3~each row and column contains six complete lines and six broken lines;
+3~28~2
+3~29~3~starter = 1 unit, sweet = 2 units, main course = 4 units, = 7 units in total. Therefore, cost per unit = 56 / 7 = 8.00 dollars. The main course, therefore, cost 4 * 8 = 32 (or 8.00 dollars per person);
+3~30~2~the letters start and finish with the alphabetic sequence: ABcDEfGHiJKlMN;
+3~31~3~the top arm moves 45° clockwise at each stage and the bottom arm moves 90° clockwise;
+3~32~3~each number indicates its position in the grid. 55 indicates row 5 column 5;
+3~33~5
+3~34~2~only dots that appear in the same position just twice in the first three hexagons are carried forward to the final hexagons;
+3~35~1~add the digits of each three-figure number to obtain the two-digit numbers;
+3~36~4
+3~37~3~in each row and column only lines that are common to the first two squares are carried forward to the final square;
+3~38~6~they will never appear together in the same corner as in a heptagon three corners clockwise is the same as four corners anticlockwise;
+3~39~3~it is necessary because it is something that forms an essential part of a whole; the rest are necessary as a duty;
+3~40~1,2,6~top left is a third of bottom right, bottom right is three less than top right and top right is half of bottom left.
+TESTEND
+4~1~2~B: the inner hexagon is being dismantled one side at a time working anticlockwise, while the outer hexagon is being constructed one side at a time working clockwise
+4~2~2~92.2: deduct 2.6 at each stage
+4~3~1~DISAPPEAR
+4~4~2~3649: in all the others multiply the first two digits together to produce the number formed by the last two digits
+4~5~4
+4~6~1
+4~7~3
+4~8~4~HA: take the numerical position of each letter in the alphabet to reveal the sequence of consecutive square numbers 1, 4, 9, 16, 25, 36, 49, 64, 81
+4~9~4
+4~10~5~42 \ 3 = 14, 51 \ 3 = 17
+4~11~1~gilt: dart, send is an anagram of stranded; dine, gilt is an anagram of diligent
+4~12~5~E: the rest are the same figure rotated
+4~13~2~tributary: in the other words the prefix tri- refers to three
+4~14~2~7: the numbers round the centre increase by seven (in the others they increase by three and five respectively)
+4~15~2~157: 7 + 8 = 15, 2 + 5 = 7
+4~16~2~B: looking across an outer circle is removed, looking down an outer circle is added;
+4~17~1
+4~18~4~425136 or 631524
+4~19~3
+4~20~4~D: looking across, the dot in the top left-hand quarter moves to the opposite corner, the dot in the top right-hand quarter moves one corner anticlockwise at each stage, the dot in the bottom left-hand quarter moves between the top two corners, and the dot in the bottom right-hand quarter moves one corner clockwise at each stage
+4~21~3~C: the first three arcs are being repeated; and the position of the arc shifts 180Ѝ
+4~22~2~EXPAND, REDUCE;
+4~23~3~C: looking across each line add three; looking down each column add two
+4~24~4
+4~25~4
+4~26~5~E: looking across and down, lines are carried forward from the first two squares to the final square when they appear in the same position twice in the first two squares. However, they then change from complete to broken lines, and vice versa
+4~27~2
+4~28~1~9: (7 x 9) \ (7 x 1)
+4~29~4
+4~30~2
+4~31~4~elicit: the following word begins with the last two letters of the previous word reversed;
+4~32~2
+4~33~3
+4~34~1~A: looking across the squares, the top left corner alternates one line/two lines/three lines; the top right corner alternates line right vertical/line left vertical; the bottom left corner alternates top horizontal/ bottom horizontal and the bottom right corner alternates diagonal between opposite corners;
+4~35~3
+4~36~2
+4~37~4
+4~38~2~1: work backwards from 120; that is, 120 - 60 - 12 - 3 - 1
+4~39~4~D: all lines are continued. However, wavy lines become straight and vice versa
+4~40~2~52: start at the top left corner and work along the top line, then back along the second line, etc, adding nine then deducting three.
+TESTEND
+5~1~3
+5~2~3
+5~3~1,8
+5~4~4
+5~5~3
+5~6~4~The others are: Scilly, Penang, Orkney, Cayman
+5~7~5
+5~8~2~it means to lessen, the rest meaning to increase
+5~9~2
+5~10~4~the other words also make words when spelt backwards
+5~11~3~at each stage the third circle moves to the end and the sixth circle moves to the beginning
+5~12~5~x is added to y to make z; 1 is added to 2 to make 3, but like symbols disappear
+5~13~3~A is murmur; B is mumble; D is mulish
+5~14~3,6
+5~15~3,6
+5~16~3~all lines carry on and change from dotted to unbroken, and vice versa
+5~17~1
+5~18~4
+5~19~2~if you draw a line down the centre to divide the set of pentagons into two halves, the right half is a mirror image of the left half
+5~20~4~all the other numbers have their digits in descending order
+5~21~2,5
+5~22~3~it contains four black dots and three white
+5~23~3~the left-hand portion is folded over onto the right-hand portion
+5~24~4
+5~25~3
+5~26~3~the contents of the third circle in each row and column is determined by the contents of the previous two circles. Only when black or white dots appear in the same position in each of these two circles are they carried forward to the third circle, but then change from black to white and vice versa
+5~27~3~it is connected with the number four, whilst the rest all have a connection with the number five
+5~28~3~the large rectangle is being dismantled, half a side at a time anticlockwise; the small rectangle is being constructed half a side at a time clockwise
+5~29~2
+5~30~5~it only contains four small white circles whereas the rest contain five
+5~31~3~so that one dot appears in one triangle and the other dot appears in two triangles (in the example the right-hand side forms a small triangle and a larger triangle and the dot is in both)
+5~32~3~the alternatives are: England win both golf and tennis, Scotland win both golf and tennis, Wales win both golf and tennis, England win golf, Scotland win tennis, Scotland win golf, England win tennis, England win golf, Wales win tennis, Wales win golf, England win tennis, Scotland win golf, Wales win tennis, Wales win golf, Scotland win tennis
+5~33~3~statement/testament and fluster/restful are anagram pairs
+5~34~5
+5~35~3~The others are: Carter, Hoover, Truman, Wilson
+5~36~5~the small ellipse moves 45° clockwise and alternates inside/outside of the larger ellipse
+5~37~3~only black dots from the circles and white dots from the squares are carried forward to the hexagon
+5~38~3,6
+5~39~6~in all the others the number formed by the first two digits added to the number formed by the second two digits equals 99
+5~40~2~looking across and down, only dots that appear in the same position in the first two squares are carried forward to the third square; however, they then change from black to white and vice versa

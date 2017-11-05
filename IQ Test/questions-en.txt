@@ -1,0 +1,1109 @@
+T1Q1
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which piece below, when fitted into the piece on the left, will form a perfect square?
+INPUT_PICT:p1_1_0;H
+ANSWER_PICT:p1_1_1;p1_1_2;p1_1_3
+ANSWER_PICT:p1_1_4;p1_1_5
+T1Q2
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which word is most opposite to the word PROSCRIBE?
+ANSWER_TEXT:allow;stifle;promote
+ANSWER_TEXT:verify;indict
+T1Q3
+ANSWER_COUNT:5;1
+INPUT_TEXT:0, 1, 2, 4, 6, 9, 12, 16, ? What number should replace the question mark?
+ANSWER_TEXT:24;20;28
+ANSWER_TEXT:22;18
+T1Q4
+ANSWER_COUNT:7;1
+INPUT_TEXT:Which number is the odd one out?
+ANSWER_TEXT:9678;4572;5261
+ANSWER_TEXT:5133;3527
+ANSWER_TEXT:6895;7768
+T1Q5
+ANSWER_COUNT:5;1
+INPUT_TEXT:Isotherm is to temperature as isobar is to:
+ANSWER_TEXT:atmosphere;wind
+ANSWER_TEXT:pressure;latitude;current
+T1Q6
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which is the missing section?
+INPUT_PICT:p1_6_0;H
+ANSWER_PICT:p1_6_1;p1_6_2
+ANSWER_PICT:p1_6_3;p1_6_4
+T1Q7
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_PICT:p1_7_1
+ANSWER_PICT:p1_7_2;p1_7_3
+ANSWER_PICT:p1_7_4;p1_7_5
+T1Q8
+ANSWER_COUNT:6;2
+INPUT_TEXT:Identify two words (one from each set of brackets) that have a connection(analogy) with the words in capitals and relate to them in the same way. GRAM (energy, weight, scales) KNOT (water, rope, speed)
+ANSWER_TEXT:energy;weight;scales
+ANSWER_TEXT:water;rope;speed
+T1Q9
+ANSWER_COUNT:4;1
+INPUT_TEXT:What is a melange?
+ANSWER_TEXT:card game;mixture
+ANSWER_TEXT:caramel;ice cream
+T1Q10
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_PICT:p1_10_1
+ANSWER_PICT:p1_10_2;p1_10_3
+ANSWER_PICT:p1_10_4;p1_10_5
+T1Q11
+ANSWER_COUNT:4;1
+INPUT_TEXT:How many minutes is it before 12 noon, if 48 minutes ago it was twice as many minutes past 9 am?
+ANSWER_TEXT:12 minutes;44 minutes
+ANSWER_TEXT:36 minutes;52 minutes
+T1Q12
+ANSWER_COUNT:8;2
+INPUT_TEXT:Which two words mean the same?
+ANSWER_TEXT:surprise;anger
+ANSWER_TEXT:felicity;benevolent
+ANSWER_TEXT:desire;bliss
+ANSWER_TEXT:delicate;stormy
+T1Q13
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_TEXT:heptagon;triangle
+ANSWER_TEXT:hexagon;cube;pentagon
+T1Q14
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which word is the opposite of pellucid?
+ANSWER_TEXT:fragile;clean
+ANSWER_TEXT:opaque;broken
+T1Q15
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the missing tile?
+INPUT_PICT:p1_15_0;H
+ANSWER_PICT:p1_15_1;p1_15_2;p1_15_3
+ANSWER_PICT:p1_15_4;p1_15_5
+T1Q16
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which word is closest in meaning to the word BRUNT?
+ANSWER_TEXT:dull;edifice;impact
+ANSWER_TEXT:tawny;nonsense
+T1Q17
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which of the following is not an anagram of a type of food?
+ANSWER_TEXT:PAST EIGHT;I CAN ROAM;WIN BOAR
+ANSWER_TEXT:CAN PEAK;COOL CHEAT
+T1Q18
+ANSWER_COUNT:4;1
+INPUT_TEXT:What number should replace the question mark?
+INPUT_PICT:p1_18_0
+ANSWER_TEXT:1;7
+ANSWER_TEXT:9;4
+T1Q19
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which of these is not a material?
+ANSWER_TEXT:HARIMO;TUBRET;NETEAS
+ANSWER_TEXT:SKAMAD;LICOCA
+T1Q20
+ANSWER_COUNT:4;1
+INPUT_TEXT:How many lines appear here?
+INPUT_PICT:p1_20_0
+ANSWER_TEXT:9;10
+ANSWER_TEXT:11;12
+T1Q21
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which is the missing tile?
+INPUT_PICT:p1_21_0;H
+ANSWER_PICT:p1_21_1;p1_21_2;p1_21_3
+ANSWER_PICT:p1_21_4;p1_21_5;p1_21_6
+T1Q22
+ANSWER_COUNT:4;1
+INPUT_TEXT:What is a papillon?
+ANSWER_TEXT:dog;flower
+ANSWER_TEXT:insect;butterfly
+T1Q23
+ANSWER_COUNT:7;1
+INPUT_TEXT:Which set of letters is the odd one out?
+ANSWER_TEXT:ADE;ILM
+ANSWER_TEXT:RUV;EHI
+ANSWER_TEXT:VYZ;JLM
+ANSWER_TEXT:FIJ
+T1Q24
+ANSWER_COUNT:6;2
+INPUT_TEXT:10, 30, 32, 96, 98, 294, 296, ?, ? What two numbers should replace the question marks?
+ANSWER_TEXT:888;640
+ANSWER_TEXT:412;642
+ANSWER_TEXT:410;890
+T1Q25
+ANSWER_COUNT:5;1
+INPUT_TEXT:able, rot, son, king - Which word below shares a common feature with all the words above?
+ANSWER_TEXT:line;sit
+ANSWER_TEXT:take;hope
+ANSWER_TEXT:night
+T1Q26
+ANSWER_COUNT:6;2
+INPUT_TEXT:Identify two words (one from each set of brackets) that have a connection(analogy) with the words in capitals and relate to them in the same way. SEA (wet, swimmer, ship) SNOW (mountain, ice, skier)
+ANSWER_TEXT:wet;swimmer
+ANSWER_TEXT:ship;mountain
+ANSWER_TEXT:ice;skier
+T1Q27
+ANSWER_COUNT:7;1
+INPUT_TEXT:Which number is the odd one out?
+ANSWER_TEXT:681422;751217
+ANSWER_TEXT:941319;831114
+ANSWER_TEXT:391221;691524
+ANSWER_TEXT:791625
+T1Q28
+ANSWER_COUNT:6;3
+INPUT_TEXT:Alf has four times as many as Jim, and Jim has three times as many as Sid. Altogether they have 192. How many has each?
+ANSWER_TEXT:10;144
+ANSWER_TEXT:72;12
+ANSWER_TEXT:36;30
+T1Q29
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which is the only one of the following that is not an anagram of a word meaning "out of this world"?
+ANSWER_TEXT:flow under;sexed Utah
+ANSWER_TEXT:enviable blue;icier blend
+T1Q30
+ANSWER_COUNT:4;1
+INPUT_TEXT:A man has 53 socks in his drawer: 21 identical blue, 15 identical black and 17 identical red. The lights are fused and he is completely in the dark. How many socks must he take out to make 100 per cent certain he has a pair of black socks?
+ANSWER_TEXT:32;56
+ANSWER_TEXT:40;24
+T1Q31
+ANSWER_COUNT:3;1
+INPUT_TEXT:Draw the missing figure in the below sequence.
+INPUT_PICT:p1_31_0
+ANSWER_PICT:p1_31_1;p1_31_2
+ANSWER_PICT:p1_31_3
+T1Q32
+ANSWER_COUNT:4;1
+INPUT_TEXT:How many minutes is it before 12 noon if nine minutes ago it was twice as many minutes past 10 am?
+ANSWER_TEXT:24;37
+ANSWER_TEXT:17;41
+T1Q33
+ANSWER_COUNT:6;2
+INPUT_TEXT:Which two words are closest in meaning?
+ANSWER_TEXT:conclave;medley
+ANSWER_TEXT:theme;conglomeration
+ANSWER_TEXT:dissertation;augury
+T1Q34
+ANSWER_COUNT:5;1
+INPUT_TEXT:broke rage prose cute dared ?. Which word is missing?
+ANSWER_TEXT:palm;hymn
+ANSWER_TEXT:evil;snow
+ANSWER_TEXT:take
+T1Q35
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_TEXT:nylon;vicuna
+ANSWER_TEXT:acrylic;polyester
+ANSWER_TEXT:acetate
+T1Q36
+ANSWER_COUNT:5;1
+INPUT_TEXT:To which hexagon below can a dot be added so that both dots then meet the same conditions as the two dots in the hexagon on the right?
+INPUT_PICT:p1_36_0
+ANSWER_PICT:p1_36_1;p1_36_2;p1_36_3
+ANSWER_PICT:p1_36_4;p1_36_5
+T1Q37
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which word is closest in meaning to the word GLUTINOUS?
+ANSWER_TEXT:sad;cohesive
+ANSWER_TEXT:voracious;hungry
+ANSWER_TEXT:flushed
+T1Q38
+ANSWER_COUNT:4;1
+INPUT_TEXT:How many minutes is it before 12 noon if 20 minutes ago it was three times as many minutes after 9 am?
+ANSWER_TEXT:35;40
+ANSWER_TEXT:45;50
+T1Q39
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which of the following is not an insect?
+ANSWER_TEXT:GIAWER;BASRAC
+ANSWER_TEXT:SETEST;RUBLEO
+ANSWER_TEXT:THENOR
+T1Q40
+ANSWER_COUNT:4;1
+INPUT_TEXT:What is a fogle?
+ANSWER_TEXT:musical instrument
+ANSWER_TEXT:silk handkerchief
+ANSWER_TEXT:hat;shoes
+TESTEND
+T2Q1
+ANSWER_COUNT:5;1
+INPUT_TEXT:What comes next?
+INPUT_PICT:p2_1_0
+ANSWER_PICT:p2_1_1;p2_1_2;p2_1_3
+ANSWER_PICT:p2_1_4;p2_1_5
+T2Q2
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which four-letter word, when placed in the brackets, will complete a word on the left and start another word on the right?
+INPUT_PICT:p2_2_0
+ANSWER_TEXT:PAGE;PART
+ANSWER_TEXT:TORN;POLE
+T2Q3
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which is the missing section?
+INPUT_PICT:p2_3_0;H
+ANSWER_PICT:p2_3_1;p2_3_2
+ANSWER_PICT:p2_3_3;p2_3_4
+T2Q4
+ANSWER_COUNT:4;1
+INPUT_TEXT:ligno- is to wood as vitro- is to:
+ANSWER_TEXT:wool;glass;stone
+ANSWER_TEXT:water;paper
+T2Q5
+ANSWER_COUNT:5;1
+INPUT_TEXT:What number should replace the question mark?
+INPUT_PICT:p2_5_0
+ANSWER_TEXT:3;8;6
+ANSWER_TEXT:4;5
+T2Q6
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which is the missing section?
+INPUT_PICT:p2_6_0
+ANSWER_PICT:p2_6_1;p2_6_2
+ANSWER_PICT:p2_6_3;p2_6_4
+T2Q7
+ANSWER_COUNT:5;1
+INPUT_PICT:p2_7_0
+ANSWER_PICT:p2_7_1;p2_7_2;p2_7_3
+ANSWER_PICT:p2_7_4;p2_7_5
+T2Q8
+ANSWER_COUNT:5;1
+INPUT_TEXT:0, 4, 2, 6, 3, 7, 3.5, ? ; What number should replace the question mark?
+ANSWER_TEXT:7.5;4;3
+ANSWER_TEXT:7;8.5
+T2Q9
+ANSWER_COUNT:6;2
+INPUT_TEXT:Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way: LONGITUDE LATITUDE
+ANSWER_TEXT:(degree;tropics;meridian)
+ANSWER_TEXT:(parallel;line;equinox)
+T2Q10
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which is the missing section?
+INPUT_PICT:p2_10_0;H
+ANSWER_PICT:p2_10_1;p2_10_2
+ANSWER_PICT:p2_10_3;p2_10_4
+T2Q11
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which word is closest in meaning to the word MONITOR?
+ANSWER_TEXT:observe;order;meddle
+ANSWER_TEXT:intrude;conclude
+T2Q12
+ANSWER_COUNT:5;1
+INPUT_TEXT:Looking at lines across and down, if the first two tiles are combined to produce the third tile, with the exception that like symbols are cancelled out, which of the above tiles is incorrect, and with which of the tiles below should it be replaced?
+INPUT_PICT:p2_12_0
+ANSWER_PICT:p2_12_1;p2_12_2
+ANSWER_PICT:p2_12_3;p2_12_4;p2_12_5
+T2Q13
+ANSWER_COUNT:6;2
+INPUT_TEXT:Which two words are most opposite in meaning?
+ANSWER_TEXT:liberty;frivolity
+ANSWER_TEXT:chastity;sobriety
+ANSWER_TEXT:irrationality;polarity
+T2Q14
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which of the following is not a cloud?
+ANSWER_TEXT:cumulus;stratus
+ANSWER_TEXT:fumerole;nimbus
+T2Q15
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which circle below should replace the question mark?
+INPUT_PICT:p2_15_0
+ANSWER_PICT:p2_15_1;p2_15_2;p2_15_3
+ANSWER_PICT:p2_15_4;p2_15_5
+T2Q16
+ANSWER_COUNT:5;1
+INPUT_TEXT:When the below is folded to form a cube, which is the only one of the following that can be produced?
+INPUT_PICT:p2_16_0
+ANSWER_PICT:p2_16_1;p2_16_2;p2_16_3
+ANSWER_PICT:p2_16_4;p2_16_5
+T2Q17
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_TEXT:femur;mandible
+ANSWER_TEXT:fibula;tibia;patella
+T2Q18
+ANSWER_COUNT:5;1
+INPUT_TEXT:My watch was correct at noon, after which it started to lose 17 minutes per hour until six hours ago it stopped completely. It now shows the time as 2.52 pm. What time is it now?
+ANSWER_TEXT:4 PM;8 AM
+ANSWER_TEXT:10 PM;7 PM;9 AM
+T2Q19
+ANSWER_COUNT:5;1
+INPUT_TEXT:What number should replace the question mark?
+INPUT_PICT:p2_19_0
+ANSWER_TEXT:34;42
+ANSWER_TEXT:40;32;24
+T2Q20
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the missing tile?
+INPUT_PICT:p2_20_0
+ANSWER_PICT:p2_20_1;p2_20_2;p2_20_3
+ANSWER_PICT:p2_20_4;p2_20_5
+T2Q21
+ANSWER_COUNT:8;1
+INPUT_TEXT:What comes next?
+INPUT_PICT:p2_21_0
+ANSWER_PICT:p2_21_1;p2_21_2;p2_21_3;p2_21_4
+ANSWER_PICT:p2_21_5;p2_21_6;p2_21_7;p2_21_8
+T2Q22
+ANSWER_COUNT:4;1
+INPUT_TEXT:DOPINESS, UNCLOAKING, DISHWASHER; Which word below has a feature in common with all the words in capitals?
+ANSWER_TEXT:gallant;crossfire
+ANSWER_TEXT:whirlwind;assault
+T2Q23
+ANSWER_COUNT:4;1
+INPUT_TEXT:1, 101, 15, 4, 29, –93, 43, –190, ? . What number should replace the question mark?
+ANSWER_TEXT:73;121
+ANSWER_TEXT:-68;57
+T2Q24
+ANSWER_COUNT:4;1
+INPUT_TEXT:What letter is two letters above the letter two letters to the left of the letter immediately above the letter three letters to the right of the letter Q?
+INPUT_PICT:p2_24_0
+ANSWER_TEXT:Q;C
+ANSWER_TEXT:G;A
+T2Q25
+ANSWER_COUNT:8;3
+INPUT_TEXT:15, 5, 8, 24, 21, 7, 10, 30, ?, ?, ?, 36, 33. What three numbers are missing?
+ANSWER_TEXT:12;16;33;27
+ANSWER_TEXT:21;36;9;7
+T2Q26
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which shield below has most in common with the following shield?
+INPUT_PICT:p2_26_0;H
+ANSWER_PICT:p2_26_1;p2_26_2;p2_26_3
+ANSWER_PICT:p2_26_4;p2_26_5
+T2Q27
+ANSWER_COUNT:5;1
+INPUT_PICT:p2_27_0
+ANSWER_PICT:p2_27_1;p2_27_2;p2_27_3
+ANSWER_PICT:p2_27_4;p2_27_5
+T2Q28
+ANSWER_COUNT:4;1
+INPUT_TEXT:What number should replace the question mark?
+INPUT_PICT:p2_28_0
+ANSWER_TEXT:4;5
+ANSWER_TEXT:7;10
+T2Q29
+ANSWER_COUNT:4;1
+INPUT_TEXT:What is a cairn?
+ANSWER_TEXT:a loch;a valley
+ANSWER_TEXT:a heap of stones;an outlook post
+T2Q30
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which word is closest in meaning to the word FUSE?
+ANSWER_TEXT:muzzle;explode;coalesce
+ANSWER_TEXT:immobilize;tighten
+T2Q31
+ANSWER_COUNT:5;1
+INPUT_TEXT:What number should replace the question mark?
+INPUT_PICT:p2_31_0
+ANSWER_TEXT:17;18
+ANSWER_TEXT:15;21
+T2Q32
+ANSWER_COUNT:5;1
+INPUT_TEXT:To which hexagon below can a dot be added so that it then meets the same conditions as in the hexagon nearby?
+INPUT_PICT:p2_32_0
+ANSWER_PICT:p2_32_1;p2_32_2;p2_32_3
+ANSWER_PICT:p2_32_4;p2_32_5
+T2Q33
+ANSWER_COUNT:5;1
+INPUT_TEXT:You have 59 cubic blocks. What is the minimum number that needs to be taken away in order to construct a solid cube with none left over?
+ANSWER_TEXT:64;32;27
+ANSWER_TEXT:24;42
+T2Q34
+ANSWER_COUNT:6;1
+INPUT_TEXT:What comes next in the sequence?
+INPUT_PICT:p2_34_0
+ANSWER_PICT:p2_34_1;p2_34_2
+ANSWER_PICT:p2_34_3;p2_34_4
+ANSWER_PICT:p2_34_5;p2_34_6
+T2Q35
+ANSWER_COUNT:4;1
+INPUT_TEXT:What number should replace the question mark?
+INPUT_PICT:p2_35_0
+ANSWER_TEXT:44;32
+ANSWER_TEXT:53;49
+T2Q36
+ANSWER_COUNT:4;1
+INPUT_TEXT:492, 366, 189, 810, ?. What number should replace the question mark?
+ANSWER_TEXT:73;88
+ANSWER_TEXT:64;80
+T2Q37
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which is the missing section?
+INPUT_PICT:p2_37_0
+ANSWER_PICT:p2_37_1;p2_37_2
+ANSWER_PICT:p2_37_3;p2_37_4
+T2Q38
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_TEXT:RE500;50I1000E;NA5Y
+ANSWER_TEXT:TA101;GO50500;B50UE
+T2Q39
+ANSWER_COUNT:5;1
+INPUT_TEXT:What number should replace the question mark?
+INPUT_PICT:p2_39_0
+ANSWER_TEXT:7;8
+ANSWER_TEXT:9;12
+T2Q40
+ANSWER_COUNT:5;1
+INPUT_TEXT:When the below is folded to form a cube, which is the only one of the following that can be produced?
+INPUT_PICT:p2_40_0
+ANSWER_PICT:p2_40_1;p2_40_2;p2_40_3
+ANSWER_PICT:p2_40_4;p2_40_5
+TESTEND
+T3Q1
+ANSWER_COUNT:5;1
+INPUT_PICT:p3_1_0
+ANSWER_PICT:p3_1_1;p3_1_2;p3_1_3
+ANSWER_PICT:p3_1_4;p3_1_5
+T3Q2
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_TEXT:cymbal;marimba;vibraphone
+ANSWER_TEXT:trombone;trombone
+T3Q3
+ANSWER_COUNT:6;2
+INPUT_TEXT:Which two letters should replace the question marks?
+INPUT_PICT:p3_3_0
+ANSWER_TEXT:M;A;P
+ANSWER_TEXT:E;O;H
+T3Q4
+ANSWER_COUNT:7;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_TEXT:462;683;385;198
+ANSWER_TEXT:253;781;594
+T3Q5
+ANSWER_COUNT:5;1
+INPUT_PICT:p3_5_0
+ANSWER_PICT:p3_5_1;p3_5_2;p3_5_3
+ANSWER_PICT:p3_5_4;p3_5_5
+T3Q6
+ANSWER_COUNT:5;1
+INPUT_PICT:p3_6_0;H
+INPUT_TEXT:Which letter is midway between the letter two letters below the letter immediately to the left of the letter G, and the letter three letters above the letter immediately to the right of the letter V?
+ANSWER_TEXT:Z;I;Q
+ANSWER_TEXT:L;H
+T3Q7
+ANSWER_COUNT:5;1
+INPUT_PICT:p3_7_0
+ANSWER_PICT:p3_7_1;p3_7_2;p3_7_3
+ANSWER_PICT:p3_7_4;p3_7_5
+T3Q8
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which word is the odd one out?
+ANSWER_TEXT:carried;foolish;scarlet
+ANSWER_TEXT:quarter;mansion;fishing
+T3Q9
+ANSWER_COUNT:6;2
+INPUT_TEXT:1, 50, 6, 45, 11, 40, 16, 35, 21, ?, ?. Which numbers should replace the question marks?
+ANSWER_TEXT:32;44;18
+ANSWER_TEXT:28;30;26
+T3Q10
+ANSWER_COUNT:8;1
+INPUT_TEXT:Which word goes fourth if arranged in alphabetical order?
+ANSWER_TEXT:acescence;acetamide;acerbated
+ANSWER_TEXT:acetified;acellular;acescency
+ANSWER_TEXT:acetabula;acerbates
+T3Q11
+ANSWER_COUNT:5;1
+INPUT_TEXT:When the below is folded to form a cube, which is the only one of the following that can be produced?
+INPUT_PICT:p3_11_0
+ANSWER_PICT:p3_11_1;p3_11_2;p3_11_3
+ANSWER_PICT:p3_11_4;p3_11_5
+T3Q12
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which is the missing section?
+INPUT_PICT:p3_12_0;H
+ANSWER_PICT:p3_12_1;p3_12_2
+ANSWER_PICT:p3_12_3;p3_12_4
+T3Q13
+ANSWER_COUNT:5;1
+INPUT_PICT:p3_13_0
+ANSWER_TEXT:3;5;7
+ANSWER_TEXT:4;9
+T3Q14
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which shield should replace the question mark?
+INPUT_PICT:p3_14_0
+ANSWER_PICT:p3_14_1;p3_14_2;p3_14_3
+ANSWER_PICT:p3_14_4;p3_14_5
+T3Q15
+ANSWER_COUNT:5;1
+INPUT_TEXT:Only one of the following groups of five letters can be arranged to form an English five-letter word. Can you find the word?
+ANSWER_TEXT:MERDO;HYOAL;NFOLE
+ANSWER_TEXT:HURSN;MUDAP
+T3Q16
+ANSWER_COUNT:8;3
+INPUT_PICT:p3_16_0
+ANSWER_TEXT:V;F;A;K
+ANSWER_TEXT:U;R;H;I
+T3Q17
+ANSWER_COUNT:5;1
+INPUT_TEXT:What number should replace the question mark?
+INPUT_PICT:p3_17_0
+ANSWER_TEXT:6;2;8
+ANSWER_TEXT:7;4
+T3Q18
+ANSWER_COUNT:5;1
+INPUT_TEXT:bizarre is to outlandish as eccentric is to:
+ANSWER_TEXT:eerie;quirky;esoteric
+ANSWER_TEXT:weird;curious
+T3Q19
+ANSWER_COUNT:6;1
+INPUT_TEXT:On taking delivery of a consignment of eggs the market stall owner was furious to find that several were cracked. In fact, on counting them up in order to assess the damage he found that 72 were cracked, which was 12 per cent of the total consignment. How many eggs in total were in the consignment?
+ANSWER_TEXT:72;150;450
+ANSWER_TEXT:374;600;720
+T3Q20
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the missing tile?
+INPUT_PICT:p3_20_0;H
+ANSWER_PICT:p3_20_1;p3_20_2;p3_20_3
+ANSWER_PICT:p3_20_4;p3_20_5
+T3Q21
+ANSWER_COUNT:4;1
+INPUT_TEXT:MTD is to PXB as FRJ is to?
+ANSWER_TEXT:ALX;SOP
+ANSWER_TEXT:ZET;IVH
+T3Q22
+ANSWER_COUNT:5;1
+INPUT_TEXT:What letter is two letters to the left of the letter immediately to the right of the letter three letters to the right of the letter A?
+INPUT_PICT:p3_22_0
+ANSWER_TEXT:A;C;G
+ANSWER_TEXT:E;H
+T3Q23
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which circle below should be placed in the large circle nearby?
+INPUT_PICT:p3_23_0;H
+ANSWER_PICT:p3_23_1;p3_23_2;p3_23_3
+ANSWER_PICT:p3_23_4;p3_23_5
+T3Q24
+ANSWER_COUNT:6;2
+INPUT_TEXT:Start at one of the corner letters and spiral clockwise round the perimeter, finishing at the middle letter, to spell out a nine-letter word. You have to provide the missing letters.
+INPUT_PICT:p3_24_0
+ANSWER_TEXT:u;s;a
+ANSWER_TEXT:o;p;k
+T3Q25
+ANSWER_COUNT:5;1
+INPUT_TEXT:16, 23, 19, 19, 22, 15, 25, ?. What number should replace the question mark?
+ANSWER_TEXT:11;20;16
+ANSWER_TEXT:17;15
+T3Q26
+ANSWER_COUNT:4;1
+INPUT_TEXT:14/55 / 56/77. Simplify as the lowest fraction.
+ANSWER_TEXT:7/11;1/4
+ANSWER_TEXT:7/20;112/555
+T3Q27
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which is the missing box?
+INPUT_PICT:p3_27_0;H
+ANSWER_PICT:p3_27_1;p3_27_2;p3_27_3
+ANSWER_PICT:p3_27_4;p3_27_5;p3_27_6
+T3Q28
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which word is most opposite in meaning to the word PLAUSIBLE?
+ANSWER_TEXT:appropriate;improbable
+ANSWER_TEXT:cliched;artificial;distasteful
+T3Q29
+ANSWER_COUNT:5;1
+INPUT_TEXT:The cost of an identical three-course lunch for four people was 56.00 dollars. The main course cost twice as much as the sweet and the sweet cost twice as much as the starter. How much did the main course cost per person?
+ANSWER_TEXT:9.50;12.00
+ANSWER_TEXT:8.00;6.00;32.00
+T3Q30
+ANSWER_COUNT:5;1
+INPUT_TEXT:aplomb, dodge, graph, jerk, ?. What comes next?
+ANSWER_TEXT:laugh;maroon;link
+ANSWER_TEXT:nickel;midnight
+T3Q31
+ANSWER_COUNT:6;1
+INPUT_TEXT:What comes next?
+INPUT_PICT:p3_31_0;H
+ANSWER_PICT:p3_31_1;p3_31_2;p3_31_3;p3_31_4;p3_31_5;p3_31_6
+T3Q32
+ANSWER_COUNT:5;1
+INPUT_TEXT:What number should replace the question mark?
+INPUT_PICT:p3_32_0;H
+ANSWER_TEXT:48;14;55
+ANSWER_TEXT:50;64
+T3Q33
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which word is closest in meaning to the word ERSTWHILE?
+ANSWER_TEXT:notable;incorrect;near
+ANSWER_TEXT:cultured;past
+T3Q34
+ANSWER_COUNT:5;1
+INPUT_PICT:p3_34_0
+ANSWER_PICT:p3_34_1;p3_34_2;p3_34_3
+ANSWER_PICT:p3_34_4;p3_34_5
+T3Q35
+ANSWER_COUNT:5;1
+INPUT_TEXT:What number should replace the question mark?
+INPUT_PICT:p3_35_0;H
+ANSWER_TEXT:12;15;9
+ANSWER_TEXT:24;14
+T3Q36
+ANSWER_COUNT:5;1
+INPUT_TEXT:Newton is to force as kelvin is to:
+ANSWER_TEXT:frequency;pressure;light
+ANSWER_TEXT:temperature;sound
+T3Q37
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which is the missing tile?
+INPUT_PICT:p3_37_0;H
+ANSWER_PICT:p3_37_1;p3_37_2;p3_37_3
+ANSWER_PICT:p3_37_4;p3_37_5;p3_37_6
+T3Q38
+ANSWER_COUNT:6;1
+INPUT_TEXT:At each stage the black dot moves three corners clockwise and the white dot moves four corners anticlockwise. After how many stages will both dots be together in the same corner?
+INPUT_PICT:p3_38_0
+ANSWER_TEXT:2;3;4
+ANSWER_TEXT:5;6;never
+T3Q39
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_TEXT:incumbent;obligatory
+ANSWER_TEXT:intrinsic;imperative
+ANSWER_TEXT:irremissible
+T3Q40
+ANSWER_COUNT:6;3
+INPUT_TEXT:What numbers should replace the question marks?
+INPUT_PICT:p3_40_0;H
+ANSWER_TEXT:18;36;42
+ANSWER_TEXT:20;14;15
+TESTEND
+T4Q1
+ANSWER_COUNT:5;1
+INPUT_TEXT:What comes next?
+INPUT_PICT:p4_1_0
+ANSWER_PICT:p4_1_1;p4_1_2;p4_1_3
+ANSWER_PICT:p4_1_4;p4_1_5
+T4Q2
+ANSWER_COUNT:5;1
+INPUT_TEXT: 100, 97.4, 94.8, ?, 89.6, 87. What number should replace the question mark?
+ANSWER_TEXT:91,2;92.2;93.2
+ANSWER_TEXT:91;92
+T4Q3
+ANSWER_COUNT:4;1
+INPUT_TEXT:Start at one of the four corner letters and spiral clockwise round the perimeter, finishing at the centre letter to spell out a nine-letter word. You must provide the missing letters.
+INPUT_PICT:p4_3_0
+ANSWER_TEXT:SPR;APS
+ANSWER_TEXT:ESD;RPE
+T4Q4
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which number is the odd one out? 9654 4832 5945 7642 7963 8216 3649
+ANSWER_TEXT:9654;3649
+ANSWER_TEXT:7963;5945
+T4Q5
+ANSWER_COUNT:4;1
+INPUT_TEXT:qualified, practicable, puissant, feasible, mundane, fine. Which two words are closest in meaning?
+ANSWER_TEXT:practicable, qualified;mundane, feasible
+ANSWER_TEXT:practicable, puissant;practicable, feasible
+T4Q6
+ANSWER_COUNT:4;1
+INPUT_TEXT: FIRST (second, next, last) PENULTIMATE (last, third, previous) Identify two words (one from each set of brackets) that have a connection (analogy) with the words in capitals and relate to them in the same way.
+ANSWER_TEXT:second, last;second, third
+ANSWER_TEXT:next, last;second, previous
+T4Q7
+ANSWER_COUNT:4;1
+INPUT_TEXT:6 2 9 3 4 7 2 9 3 2 6 4 9 1 2. Find five consecutive numbers below that total 23.
+ANSWER_TEXT:62934;34729
+ANSWER_TEXT:72932;64912
+T4Q8
+ANSWER_COUNT:4;1
+INPUT_TEXT:A, D, I, P, Y, CF, DI, FD, ?. Which two letters come next in the following sequence?
+ANSWER_TEXT:EF;WE
+ANSWER_TEXT:FA;HA
+T4Q9
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which word is the most opposite to the word SLEEK?
+ANSWER_TEXT:sordid;unimaginative;disorderly
+ANSWER_TEXT:dishevelled;oblique
+T4Q10
+ANSWER_COUNT:5;1
+INPUT_TEXT: What number should replace the question mark?
+INPUT_PICT:p4_10_0
+ANSWER_TEXT:352;6653;128
+ANSWER_TEXT:1246;1417
+T4Q11
+ANSWER_COUNT:4;1
+INPUT_TEXT:DART (STRANDED) SEND -> DINE (DILIGENT) ?. What word should replace the question mark?
+ANSWER_TEXT:gilt;deal
+ANSWER_TEXT:will;steal
+T4Q12
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the odd one out?
+INPUT_PICT:p4_12_0
+ANSWER_TEXT:A;B;C
+ANSWER_TEXT:D;E
+T4Q13
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_TEXT:trivet;tributary;triptych
+ANSWER_TEXT:trident;triad
+T4Q14
+ANSWER_COUNT:5;1
+INPUT_TEXT: What number should replace the question mark?
+INPUT_PICT:p4_14_0;H
+ANSWER_TEXT:2;7;9
+ANSWER_TEXT:17;14
+T4Q15
+ANSWER_COUNT:4;1
+INPUT_TEXT:5862 is to 714 and 3498 is to 1113 and 9516 is to 156 therefore 8257 is to ...:
+ANSWER_TEXT:234;157
+ANSWER_TEXT:125;352
+T4Q16
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which is the missing tile?
+INPUT_PICT:p4_16_0;H
+ANSWER_PICT:p4_16_1;p4_16_2;p4_16_3
+ANSWER_PICT:p4_16_4;p4_16_5;p4_16_6
+T4Q17
+ANSWER_COUNT:5;1
+INPUT_TEXT:mohair is to wool as shantung is to:
+ANSWER_TEXT:silk;cotton;linen
+ANSWER_TEXT:nylon;fabric
+T4Q18
+ANSWER_COUNT:4;1
+INPUT_TEXT:Place the numbers 1ֶ into the circles, one number per circle, so that: the sum of the numbers 4 and 1, and all the numbers between them total 12; the sum of the numbers 4 and 6, and all the numbers between them total 21; the sum of the numbers 2 and 1, and all the numbers between them total 8.
+INPUT_PICT:p4_18_0
+ANSWER_TEXT:135642;123456
+ANSWER_TEXT:425361;425136
+T4Q19
+ANSWER_COUNT:4;1
+INPUT_TEXT:A B C D E F G H; What letter is two to the right of the letter immediately to the right of the letter two to the left of the letter three to the right of the letter immediately to the left of the letter E?
+ANSWER_TEXT:D;A
+ANSWER_TEXT:H;F
+T4Q20
+ANSWER_COUNT:5;1
+INPUT_TEXT:What comes next in the above sequence?
+INPUT_PICT:p4_20_0
+ANSWER_PICT:p4_20_1;p4_20_2;p4_20_3
+ANSWER_PICT:p4_20_4;p4_20_5
+T4Q21
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which arc is missing?
+INPUT_PICT:p4_21_0
+ANSWER_PICT:p4_21_1;p4_21_2;p4_21_3
+ANSWER_PICT:p4_21_4;p4_21_5;p4_21_6
+T4Q22
+ANSWER_COUNT:4;1
+INPUT_TEXT:ERT, UCE, DES, END, EXP, EAR, AND, SIP, RED, GOS. Which four bits can be joined together to form two words that have opposite meanings?
+ANSWER_TEXT:SIP, EXP, AND, RED;UCE, EXP, AND, RED
+ANSWER_TEXT:UCE, END, AND, RED;UCE, EAR, AND, RED
+T4Q23
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which is the missing section?
+INPUT_PICT:p4_23_0;H
+ANSWER_PICT:p4_23_1;p4_23_2
+ANSWER_PICT:p4_23_3;p4_23_4
+T4Q24
+ANSWER_COUNT:5;1
+INPUT_TEXT:What is the meaning of plenary?
+ANSWER_TEXT:easy to bend;overabundance
+ANSWER_TEXT:able to absorb;open to all
+ANSWER_TEXT:acceptable
+T4Q25
+ANSWER_COUNT:4;1
+INPUT_TEXT:Find the ages of Mary, George, Alice, Claire and Stephen if: Mary + George = 33 years between them, Alice + Claire = 95 years between them, Stephen + Mary = 72 years between them, Mary + Claire = 87 years between them, Stephen + George = 73 years between them
+ANSWER_TEXT:Mary 13, George 19, Alice 35, Stephen 56, Claire 71
+ANSWER_TEXT:Mary 16, George 17, Alice 27, Stephen 56, Claire 94
+ANSWER_TEXT:Mary 16, George 25, Alice 24, Stephen 18, Claire 71
+ANSWER_TEXT:Mary 16, George 17, Alice 24, Stephen 56, Claire 71
+T4Q26
+ANSWER_COUNT:5;1
+INPUT_TEXT: Which is the missing tile?
+INPUT_PICT:p4_26_0;H
+ANSWER_PICT:p4_26_1;p4_26_2;p4_26_3
+ANSWER_PICT:p4_26_4;p4_26_5
+T4Q27
+ANSWER_COUNT:4;1
+INPUT_TEXT:Using letters CILT only, create a seven-letter word.
+ANSWER_TEXT:LILICIT;ILLICIT
+ANSWER_TEXT:ICITLLI;CILLITI
+T4Q28
+ANSWER_COUNT:4;1
+INPUT_TEXT:53 (3) 59, 92 (4) 98, 34 (2) 38, 71 (?) 79. What number should replace the question mark?
+ANSWER_TEXT:9;12
+ANSWER_TEXT:7;14
+T4Q29
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which two words are most alike in meaning?
+ANSWER_TEXT:bilk, chat;score, swindle
+ANSWER_TEXT:accommodate, swindle
+ANSWER_TEXT:bilk, swindle
+T4Q30
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which of the following is not clothing?
+ANSWER_TEXT:togue;hassock
+ANSWER_TEXT:cassock;chapeau
+T4Q31
+ANSWER_COUNT:5;1
+INPUT_TEXT:abashed, derail, little, ?. What comes next?
+ANSWER_TEXT:mellow;entail;leader
+ANSWER_TEXT:elicit;status
+T4Q32
+ANSWER_COUNT:4;1
+INPUT_TEXT:Produce an eight-letter word by joining together two of these four-letter sets: cred, agon, lues, once, deva, some, come, pent
+ANSWER_TEXT:someonce;pentagon
+ANSWER_TEXT:devacome;credonce
+T4Q33
+ANSWER_COUNT:5;1
+INPUT_TEXT:What number is three places away from itself plus three, two places away from itself multiplied by two, two places away from itself less four and two places away from itself divided by three?
+INPUT_PICT:p4_33_0
+ANSWER_TEXT:4;7;9
+ANSWER_TEXT:1;8
+T4Q34
+ANSWER_COUNT:5;1
+INPUT_TEXT: What comes next?
+INPUT_PICT:p4_34_0
+ANSWER_PICT:p4_34_1;p4_34_2;p4_34_3
+ANSWER_PICT:p4_34_4;p4_34_5
+T4Q35
+ANSWER_COUNT:4;1
+INPUT_TEXT:What percentage of the figure is shaded?
+INPUT_PICT:p4_35_0
+ANSWER_TEXT:66;60
+ANSWER_TEXT:62.5;70
+T4Q36
+ANSWER_COUNT:4;1
+INPUT_TEXT:What letter is two letters away clockwise from the letter that is directly opposite the letter three letters away anticlockwise from the letter C?
+INPUT_PICT:p4_36_0;H
+ANSWER_TEXT:E;F
+ANSWER_TEXT:D;G
+T4Q37
+ANSWER_COUNT:4;1
+INPUT_TEXT:What is a picot?
+ANSWER_TEXT:sword fish;jewellery
+ANSWER_TEXT:fabric;loop of thread
+T4Q38
+ANSWER_COUNT:5;1
+INPUT_TEXT:What is one-third of one-quarter of one-fifth of one-half of 120?
+ANSWER_TEXT:2;1;3
+ANSWER_TEXT:4;5
+T4Q39
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which is the missing tile?
+INPUT_PICT:p4_39_0;H
+ANSWER_PICT:p4_39_1;p4_39_2;p4_39_3
+ANSWER_PICT:p4_39_4;p4_39_5
+T4Q40
+ANSWER_COUNT:4;1
+INPUT_TEXT:What number should replace the question mark?
+INPUT_PICT:p4_40_0;H
+ANSWER_TEXT:23;52
+ANSWER_TEXT:17;55
+TESTEND
+T5Q1
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_PICT:p5_1_1;p5_1_2;p5_1_3
+ANSWER_PICT:p5_1_4;p5_1_5;p5_1_6
+T5Q2
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which word is most opposite in meaning to the word REVERENT?
+ANSWER_TEXT:candid;lucid;cheeky
+ANSWER_TEXT:content;culpable
+T5Q3
+ANSWER_COUNT:10;2
+INPUT_TEXT:Place two four-letter bits together to make an eight-letter word.
+ANSWER_TEXT:RONI;DAMA;TION;RENI;POEN
+ANSWER_TEXT:PENT;AGOS;MACA;GADE;TICS
+T5Q4
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which number is the odd one out?
+ANSWER_TEXT:3647;2536;5869
+ANSWER_TEXT:6957;1425;4758
+T5Q5
+ANSWER_COUNT:5;1
+INPUT_TEXT:Isotherm is to temperature as isobar is to:
+ANSWER_TEXT:atmosphere;wind
+ANSWER_TEXT:pressure;latitude;current
+T5Q6
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which of these is not an island?
+ANSWER_TEXT:LICSLY;NAGPEN;KENROY
+ANSWER_TEXT:DOLNON;YANMAC
+T5Q7
+ANSWER_COUNT:5;1
+INPUT_TEXT:Each line and symbol that appears in the four outer circles, above, is transferred to the centre circle according to these rules. If a line or symbol occurs in the outer circles: once: it is transferred; twice: it is possibly transferred; 3 times: it is transferred; 4 times: it is not transferred. Which of the circles A, B, C, D or E shown below should appear at the centre of the diagram, above?
+INPUT_PICT:p5_7_0
+ANSWER_PICT:p5_7_1;p5_7_2;p5_7_3
+ANSWER_PICT:p5_7_4;p5_7_5
+T5Q8
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_TEXT:exacerbate;alleviate;amplify
+ANSWER_TEXT:escalate;inflate
+T5Q9
+ANSWER_COUNT:4;1
+INPUT_TEXT:What is a plié?
+ANSWER_TEXT:a climbing tool;a ballet movement
+ANSWER_TEXT:a pie;a fencing stroke
+T5Q10
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_TEXT:timer;loots;repel
+ANSWER_TEXT:times;spots
+T5Q11
+ANSWER_COUNT:6;1
+INPUT_TEXT:What comes next?
+INPUT_PICT:p5_11_0
+ANSWER_PICT:p5_11_1;p5_11_2
+ANSWER_PICT:p5_11_3;p5_11_4
+ANSWER_PICT:p5_11_5;p5_11_6
+T5Q12
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which symbol should replace the question mark?
+INPUT_PICT:p5_12_0;H
+ANSWER_PICT:p5_12_1;p5_12_2;p5_12_3
+ANSWER_PICT:p5_12_4;p5_12_5
+T5Q13
+ANSWER_COUNT:4;1
+INPUT_TEXT:Which circle cannot be made into a word?
+ANSWER_PICT:p5_13_1;p5_13_2
+ANSWER_PICT:p5_13_3;p5_13_4
+T5Q14
+ANSWER_COUNT:6;2
+INPUT_TEXT:Place two three-letter bits together to equal an animal.
+ANSWER_TEXT:ONE;POL;VIC
+ANSWER_TEXT:ERA;BIS;UNA
+T5Q15
+ANSWER_COUNT:6;2
+INPUT_TEXT:Which two words are closest in meaning?
+ANSWER_TEXT:old;stiff;ripe
+ANSWER_TEXT:pure;uniform;mellow
+T5Q16
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the missing tile?
+INPUT_PICT:p5_16_0;H
+ANSWER_PICT:p5_16_1;p5_16_2;p5_16_3
+ANSWER_PICT:p5_16_4;p5_16_5
+T5Q17
+ANSWER_COUNT:5;1
+INPUT_TEXT:abyss is to chasm as fissure is to:
+ANSWER_TEXT:crevice;recess;gorge
+ANSWER_TEXT:canyon;opening
+T5Q18
+ANSWER_COUNT:5;1
+INPUT_TEXT:Each line and symbol that appears in the four outer circles above is transferred to the centre circle according to these rules: If a line or symbol occurs in the outer circles: once: it is transferred; twice: it is possibly transferred; three times: it is transferred; four times: it is not transferred. Which of the circles A, B, C, D or E shown below should appear at the centre of the diagram above?
+INPUT_PICT:p5_18_0
+ANSWER_PICT:p5_18_1;p5_18_2;p5_18_3
+ANSWER_PICT:p5_18_4;p5_18_5
+T5Q19
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which pentagon should replace the question mark?
+INPUT_PICT:p5_19_0;H
+ANSWER_PICT:p5_19_1;p5_19_2;p5_19_3
+ANSWER_PICT:p5_19_4;p5_19_5
+T5Q20
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which is the odd number out?
+ANSWER_TEXT:9421;7532;9854
+ANSWER_TEXT:8612;6531;8541
+T5Q21
+ANSWER_COUNT:6;2
+INPUT_TEXT:Which two words are most alike in meaning?
+ANSWER_TEXT:speech;hearsay;fury
+ANSWER_TEXT:boast;rumour;extract
+T5Q22
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which shield below has most in common with the shield above?
+INPUT_PICT:p5_22_0;H
+ANSWER_PICT:p5_22_1;p5_22_2;p5_22_3
+ANSWER_PICT:p5_22_4;p5_22_5
+T5Q23
+ANSWER_COUNT:5;1
+INPUT_PICT:p5_23_0
+ANSWER_PICT:p5_23_1;p5_23_2;p5_23_3
+ANSWER_PICT:p5_23_4;p5_23_5
+T5Q24
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which of the following is not an anagram of a type of ship?
+ANSWER_TEXT:ARK NET;LAY LEG;NUCHAL
+ANSWER_TEXT:BETASK;SPA MAN
+T5Q25
+ANSWER_COUNT:5;1
+INPUT_TEXT:What is the meaning of laconic?
+ANSWER_TEXT:dull, uninspiring;tearful
+ANSWER_TEXT:using few words
+ANSWER_TEXT:emotionally unstable;sarcastic
+T5Q26
+ANSWER_COUNT:4;1
+INPUT_TEXT:What circle should replace the question mark?
+INPUT_PICT:p5_26_0;H
+ANSWER_PICT:p5_26_1;p5_26_2
+ANSWER_PICT:p5_26_3;p5_26_4
+T5Q27
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_TEXT:pentad;limerick;quatrain
+ANSWER_TEXT:quincunx;pentagon
+T5Q28
+ANSWER_COUNT:5;1
+INPUT_TEXT:What comes next?
+INPUT_PICT:p5_28_0
+ANSWER_PICT:p5_28_1;p5_28_2;p5_28_3
+ANSWER_PICT:p5_28_4;p5_28_5
+T5Q29
+ANSWER_COUNT:5;1
+INPUT_TEXT:pediform is to foot as reniform is to:
+ANSWER_TEXT:heart;kidney;tooth
+ANSWER_TEXT:beak;fingers
+T5Q30
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_PICT:p5_30_1;p5_30_2;p5_30_3
+ANSWER_PICT:p5_30_4;p5_30_5;p5_30_6
+T5Q31
+ANSWER_COUNT:5;1
+INPUT_TEXT:To which hexagon below can a dot be added so that both dots then meet the same conditions as the two dots in the hexagon above?
+INPUT_PICT:p5_31_0
+ANSWER_PICT:p5_31_1;p5_31_2;p5_31_3
+ANSWER_PICT:p5_31_4;p5_31_5
+T5Q32
+ANSWER_COUNT:4;1
+INPUT_TEXT:Three teams, from England, Scotland and Wales, are competing for two trophies, one for golf and one for tennis. How many different outcomes of the two competitions exist?
+INPUT_PICT:p5_32_0
+ANSWER_TEXT:6;8
+ANSWER_TEXT:9;12
+T5Q33
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_TEXT:statement;fluster;retirement
+ANSWER_TEXT:restful;testament
+T5Q34
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which is the odd one out?
+ANSWER_TEXT:bazooka;shrapnel;claymore
+ANSWER_TEXT:harpoon;bonanza;arquebus
+T5Q35
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which one of these was not a president of the United States?
+ANSWER_TEXT:RACRET;ROOVHE;PINCHAL
+ANSWER_TEXT:TAMRUN;SLIWNO
+T5Q36
+ANSWER_COUNT:5;1
+INPUT_TEXT:What comes next?
+INPUT_PICT:p5_36_0
+ANSWER_PICT:p5_36_1;p5_36_2;p5_36_3
+ANSWER_PICT:p5_36_4;p5_36_5
+T5Q37
+ANSWER_COUNT:5;1
+INPUT_PICT:p5_37_0
+ANSWER_PICT:p5_37_1;p5_37_2;p5_37_3
+ANSWER_PICT:p5_37_4;p5_37_5
+T5Q38
+ANSWER_COUNT:6;2
+INPUT_TEXT:Which two words mean the same?
+ANSWER_TEXT:bathos;spectacles;junta
+ANSWER_TEXT:carriage;archetype;cabal
+T5Q39
+ANSWER_COUNT:6;1
+INPUT_TEXT:Which number is the odd one out?
+ANSWER_TEXT:3861;8712;5247
+ANSWER_TEXT:4356;1485;3645
+T5Q40
+ANSWER_COUNT:5;1
+INPUT_TEXT:Which is the missing tile?
+INPUT_PICT:p5_40_0;H
+ANSWER_PICT:p5_40_1;p5_40_2;p5_40_3
+ANSWER_PICT:p5_40_4;p5_40_5

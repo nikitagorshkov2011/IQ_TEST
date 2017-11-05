@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "View correct answers"; ObjectID = "2wb-k4-f3s"; */
+"2wb-k4-f3s.normalTitle" = "Правильные ответы";
+
+/* Class = "UIButton"; normalTitle = "◀︎"; ObjectID = "3Vy-UI-GdJ"; */
+"3Vy-UI-GdJ.normalTitle" = "◀︎";
+
+/* Class = "UIButton"; normalTitle = "SELECT TEST"; ObjectID = "90k-Tx-uGU"; */
+"90k-Tx-uGU.normalTitle" = "Тесты";
+
+/* Class = "UIButton"; normalTitle = "Test 1"; ObjectID = "9mK-or-Uba"; */
+"9mK-or-Uba.normalTitle" = "Тест 1";
+
+/* Class = "UIButton"; normalTitle = "RESET PROGRESS"; ObjectID = "Ar6-D7-I8P"; */
+"Ar6-D7-I8P.normalTitle" = "Сброс результатов";
+
+/* Class = "UIButton"; normalTitle = "View correct answers"; ObjectID = "DhE-2s-lFy"; */
+"DhE-2s-lFy.normalTitle" = "Правильные ответы";
+
+/* Class = "UIButton"; normalTitle = "View correct answers"; ObjectID = "EQi-h7-51e"; */
+"EQi-h7-51e.normalTitle" = "Правильные ответы";
+
+/* Class = "UIButton"; normalTitle = "LANGUAGE"; ObjectID = "KMC-OY-oi1"; */
+"KMC-OY-oi1.normalTitle" = "Выбор языка";
+
+/* Class = "UIButton"; normalTitle = "Test 4"; ObjectID = "NkD-lf-vBs"; */
+"NkD-lf-vBs.normalTitle" = "Тест 4";
+
+/* Class = "UIButton"; normalTitle = "SETTINGS"; ObjectID = "PAf-FD-ebi"; */
+"PAf-FD-ebi.normalTitle" = "Настройки";
+
+/* Class = "UIButton"; normalTitle = "Test 5"; ObjectID = "PNT-dP-5iV"; */
+"PNT-dP-5iV.normalTitle" = "Тест 5";
+
+/* Class = "UIButton"; normalTitle = "YOUR RECORDS"; ObjectID = "Rxc-Q6-RMD"; */
+"Rxc-Q6-RMD.normalTitle" = "Ваши результаты";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "Znl-bd-Kbc"; */
+"Znl-bd-Kbc.text" = "10";
+
+/* Class = "UIButton"; normalTitle = "View correct answers"; ObjectID = "cit-YM-vk2"; */
+"cit-YM-vk2.normalTitle" = "Правильные ответы";
+
+/* Class = "UIButton"; normalTitle = "Test 3"; ObjectID = "dkW-OE-oJK"; */
+"dkW-OE-oJK.normalTitle" = "Тест 3";
+
+/* Class = "UIButton"; normalTitle = "Test 2"; ObjectID = "fWE-pN-dZf"; */
+"fWE-pN-dZf.normalTitle" = "Тест 2";
+
+/* Class = "UIButton"; normalTitle = "▶︎"; ObjectID = "gw3-qa-pR5"; */
+"gw3-qa-pR5.normalTitle" = "▶︎";
+
+/* Class = "UIButton"; normalTitle = "View correct answers"; ObjectID = "qVX-tM-309"; */
+"qVX-tM-309.normalTitle" = "Правильные ответы";
+
+/* Class = "UIButton"; normalTitle = "Not Answered"; ObjectID = "tfs-Ef-XUr"; */
+"tfs-Ef-XUr.normalTitle" = "Найти неотвеченный";

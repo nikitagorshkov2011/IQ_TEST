@@ -1,0 +1,1206 @@
+T1Q1
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p1_1_0
+ANSWER_TEXT:12;14
+ANSWER_TEXT:13;15
+T1Q2
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:Дом;Иглу
+ANSWER_TEXT:Бунгало;Офис
+ANSWER_TEXT:Хижина
+T1Q3
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите недостающие числа
+INPUT_PICT:p1_3_0
+ANSWER_TEXT:14 13;13 14
+ANSWER_TEXT:15 14;14 15
+T1Q4
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:селедка
+ANSWER_TEXT:кит;акула
+ANSWER_TEXT:барракуда
+ANSWER_TEXT:треска
+T1Q5
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите сочетание, не образующее марку автомобиля
+ANSWER_TEXT:рофд;тбнеил
+ANSWER_TEXT:тафи;ожеп
+ANSWER_TEXT:гбион
+T1Q6
+ANSWER_COUNT:3;1
+INPUT_TEXT:Вставьте в скобки недостающее слово
+INPUT_PICT:p1_6_0
+ANSWER_TEXT:молодой
+ANSWER_TEXT:грибной
+ANSWER_TEXT:солнечный
+T1Q7
+ANSWER_COUNT:3;1
+INPUT_TEXT:Вставьте в скобки значимое слово, которое завершает первое слово и начинает второе (намек: колоть)
+INPUT_PICT:p1_7_0
+ANSWER_TEXT:мол
+ANSWER_TEXT:лом
+ANSWER_TEXT:кол
+T1Q8
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p1_8_0;H
+ANSWER_PICT:p1_8_1;p1_8_2;p1_8_3
+ANSWER_PICT:p1_8_4;p1_8_5;p1_8_6
+T1Q9
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p1_9_0
+ANSWER_PICT:p1_9_1;p1_9_2;p1_9_3
+ANSWER_PICT:p1_9_4;p1_9_5;p1_9_6
+T1Q10
+ANSWER_COUNT:6;1
+INPUT_TEXT:Найдите недостающее число
+INPUT_PICT:p1_10_0
+ANSWER_TEXT:32;23;36
+ANSWER_TEXT:26;34;30
+T1Q11
+ANSWER_COUNT:5;1
+INPUT_TEXT:Выберите лишнюю фигуру
+ANSWER_PICT:p1_11_1;p1_11_2;p1_11_3
+ANSWER_PICT:p1_11_4;p1_11_5
+T1Q12
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите недостающие числа
+INPUT_PICT:p1_12_0
+ANSWER_TEXT:18 32;30 18
+ANSWER_TEXT:18 30;32 18
+T1Q13
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите недостающую букву
+INPUT_PICT:p1_13_0
+ANSWER_TEXT:Б;К;Ф
+ANSWER_TEXT:С;Я
+T1Q14
+ANSWER_COUNT:4;1
+INPUT_TEXT:Слово, к которому подходит любая из следующих приставок
+INPUT_PICT:p1_14_0
+ANSWER_TEXT:ход;кол
+ANSWER_TEXT:курил;права
+T1Q15
+ANSWER_COUNT:3;1
+INPUT_TEXT:Найдите 2 слова в скобках
+INPUT_PICT:p1_15_0
+ANSWER_TEXT:лаг судно
+ANSWER_TEXT:лот плот
+ANSWER_TEXT:ип пип
+T1Q16
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите недостающее число
+INPUT_PICT:p1_16_0
+ANSWER_TEXT:7;6;14
+ANSWER_TEXT:12;3
+T1Q17
+ANSWER_COUNT:6;1
+INPUT_TEXT:Найдите слово, которое сочетается со словами (УБЕЖДЕНИЕ ОПРЕДЕЛЕНИЕ НАЗНАЧЕНИЕ)
+ANSWER_TEXT:наместник;страх
+ANSWER_TEXT:вестник;течение
+ANSWER_TEXT:хранитель;птица
+T1Q18
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p1_18_0
+ANSWER_PICT:p1_18_1;p1_18_2;p1_18_3
+ANSWER_PICT:p1_18_4;p1_18_5;p1_18_6
+T1Q19
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки значимое слово, которое завершает первое слово и начинает второе (намек: лес)
+INPUT_PICT:p1_19_0
+ANSWER_TEXT:лез;лес
+ANSWER_TEXT:тупор;бор
+T1Q20
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите сочетание, не образующее фамилию знаменитого поэта
+ANSWER_TEXT:йорбан;шпуинк
+ANSWER_TEXT:стик;лотанп
+ANSWER_TEXT:морленвот
+T1Q21
+ANSWER_COUNT:6;1
+INPUT_TEXT:Вставьте недостающее число
+INPUT_PICT:p1_21_0
+ANSWER_TEXT:5;6;7
+ANSWER_TEXT:11;12;14
+T1Q22
+ANSWER_COUNT:4;1
+INPUT_TEXT:Завершите слово, которое находится в скобках (каждая точка - это одна буква)
+INPUT_PICT:p1_22_0
+ANSWER_TEXT:асту;атир
+ANSWER_TEXT:осош;рита
+T1Q23
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки слово, обозначающее в контексте то же самое, что два слова за скобками
+INPUT_PICT:p1_23_0
+ANSWER_TEXT:пчела;мотыль
+ANSWER_TEXT:улитка;червь
+T1Q24
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнюю фигуру
+ANSWER_PICT:p1_24_1;p1_24_2;p1_24_3
+ANSWER_PICT:p1_24_4;p1_24_5
+T1Q25
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите сочетание, не образующее фамилию знаменитого композитора
+ANSWER_TEXT:понеш;олесаям
+ANSWER_TEXT:отцамр;буршет
+ANSWER_TEXT:устраш
+T1Q26
+ANSWER_COUNT:6;1
+INPUT_TEXT:Вставьте недостающую букву
+INPUT_PICT:p1_26_0
+ANSWER_TEXT:Б;К;А
+ANSWER_TEXT:У;Е;Ж
+T1Q27
+ANSWER_COUNT:5;1
+INPUT_TEXT:Какая из фигур является решением тождества
+INPUT_PICT:p1_27_0
+ANSWER_PICT:p1_27_1;p1_27_2;p1_27_3
+ANSWER_PICT:p1_27_4;p1_27_5
+T1Q28
+ANSWER_COUNT:5;1
+INPUT_TEXT:Какая из фигур является решением тождества
+INPUT_PICT:p1_28_0
+ANSWER_PICT:p1_28_1;p1_28_2;p1_28_3
+ANSWER_PICT:p1_28_4;p1_28_5
+T1Q29
+ANSWER_COUNT:5;1
+INPUT_TEXT:Вставьте в скобки пропущенное слово
+INPUT_PICT:p1_29_0
+ANSWER_TEXT:гусар;угри;арка
+ANSWER_TEXT:рагу;гора
+T1Q30
+ANSWER_COUNT:3;1
+INPUT_TEXT:Вставьте в скобки слово, которое завершает первое слово и начинает второе (намек: щель)
+INPUT_PICT:p1_30_0
+ANSWER_TEXT:лок
+ANSWER_TEXT:паз
+ANSWER_TEXT:пол
+T1Q31
+ANSWER_COUNT:5;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p1_31_0
+ANSWER_PICT:p1_31_1;p1_31_2;p1_31_3
+ANSWER_PICT:p1_31_4;p1_31_5
+T1Q32
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p1_32_0
+ANSWER_PICT:p1_32_1;p1_32_2;p1_32_3
+ANSWER_PICT:p1_32_4;p1_32_5;p1_32_6
+T1Q33
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p1_33_0;H
+ANSWER_TEXT:15;10
+ANSWER_TEXT:9;11
+T1Q34
+ANSWER_COUNT:7;1
+INPUT_TEXT:Найдите лишнее название города
+ANSWER_TEXT:Канберра;Лондон
+ANSWER_TEXT:Париж;Нью-Йорк
+ANSWER_TEXT:Берлин;Оттава
+ANSWER_TEXT:Вашингтон
+T1Q35
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте недостающее число
+INPUT_PICT:p1_35_0
+ANSWER_TEXT:20;16
+ANSWER_TEXT:18;19
+T1Q36
+ANSWER_COUNT:3;1
+INPUT_TEXT:Вставьте недостающие буквы (через пробел: верхняя и нижняя, считайте, что букв ё, й в алфавите нет)
+INPUT_PICT:p1_36_0
+ANSWER_TEXT:Б Ж;Л О 
+ANSWER_TEXT:Д З
+T1Q37
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки значимое слово, которое завершает первое слово и начинает второе (намек: частота)
+INPUT_PICT:p1_37_0
+ANSWER_TEXT:байт;волна
+ANSWER_TEXT:герц;пор
+T1Q38
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p1_38_0
+ANSWER_TEXT:32;26
+ANSWER_TEXT:24;18
+T1Q39
+ANSWER_COUNT:6;1
+INPUT_TEXT:Вставьте следующую букву в серии
+INPUT_PICT:p1_39_0
+ANSWER_TEXT:З;Л;Н
+ANSWER_TEXT:М;К;У
+ANSWER_TEXT:не знаю
+T1Q40
+ANSWER_COUNT:3;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p1_40_0
+ANSWER_TEXT:27;277
+ANSWER_TEXT:238
+TESTEND
+T2Q1
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p2_1_0
+ANSWER_TEXT:22;24
+ANSWER_TEXT:26;25
+T2Q2
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p2_2_0
+ANSWER_PICT:p2_2_1;p2_2_2;p2_2_3
+ANSWER_PICT:p2_2_4;p2_2_5;p2_2_6
+T2Q3
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:собака;лиса
+ANSWER_TEXT:жираф;лев
+ANSWER_TEXT:селёдка
+T2Q4
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте два недостающих числа
+INPUT_PICT:p2_4_0
+ANSWER_TEXT:98 101;90 93
+ANSWER_TEXT:48 51;90 101
+T2Q5
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:Юпитер;Аполлон
+ANSWER_TEXT:Марс;Нептун
+ANSWER_TEXT:Меркурий
+T2Q6
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите тот город, который находится не в Европе
+ANSWER_TEXT:НАЛИМ;НАЫИФ
+ANSWER_TEXT:НЕПКИ;НЕВА
+ANSWER_TEXT:ОСМАКВ
+T2Q7
+ANSWER_COUNT:3;1
+INPUT_TEXT:Вставьте в скобки недостающее слово
+INPUT_PICT:p2_7_0
+ANSWER_TEXT:Громкий;Львиный
+ANSWER_TEXT:Вонючий
+T2Q8
+ANSWER_COUNT:5;1
+INPUT_TEXT:Вставьте в скобки значимое слово, которое завершает первое слово и начинает второе (намек: растение)
+INPUT_PICT:p2_8_0
+ANSWER_TEXT:пас;боб
+ANSWER_TEXT:кур;мёк;мяк
+T2Q9
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p2_9_0;H
+ANSWER_PICT:p2_9_1;p2_9_2;p2_9_3
+ANSWER_PICT:p2_9_4;p2_9_5;p2_9_6
+T2Q10
+ANSWER_COUNT:6;1
+INPUT_TEXT:Вставьте пропущенную букву
+INPUT_PICT:p2_10_0
+ANSWER_TEXT:Ш;Щ;З
+ANSWER_TEXT:У;Ч;Х
+T2Q11
+ANSWER_COUNT:5;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p2_11_0
+ANSWER_TEXT:41;39;26
+ANSWER_TEXT:38;22
+T2Q12
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнюю фигуру
+ANSWER_PICT:p2_12_1;p2_12_2;p2_12_3
+ANSWER_PICT:p2_12_4;p2_12_5
+T2Q13
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите недостающее число
+INPUT_PICT:p2_13_0
+ANSWER_TEXT:20;22;19
+ANSWER_TEXT:31;18
+T2Q14
+ANSWER_COUNT:4;1
+INPUT_TEXT:Выберите слово, к которому подходит любая из следующих приставок
+INPUT_PICT:p2_14_0
+ANSWER_TEXT:вал;ман
+ANSWER_TEXT:гон;кат
+T2Q15
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки недостающее слово
+INPUT_PICT:p2_15_0
+ANSWER_TEXT:волна;вода
+ANSWER_TEXT:коса;беда
+T2Q16
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p2_16_0
+ANSWER_PICT:p2_16_1;p2_16_2;p2_16_3
+ANSWER_PICT:p2_16_4;p2_16_5;p2_16_6
+T2Q17
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите пропущенное число
+INPUT_PICT:p2_17_0
+ANSWER_TEXT:26;13
+ANSWER_TEXT:36;6
+T2Q18
+ANSWER_COUNT:6;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:краб;руно
+ANSWER_TEXT:стоп;приз
+ANSWER_TEXT:наст;туф
+T2Q19
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки значимое слово, которое завершает первое слово и начинает второе
+INPUT_PICT:p2_19_0
+ANSWER_TEXT:тык;нка
+ANSWER_TEXT:жор;сон
+T2Q20
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите сочетание, не образующее название острова
+ANSWER_TEXT:баку;пикар
+ANSWER_TEXT:аклочаст
+ANSWER_TEXT:агаксардам
+T2Q21
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте недостающее число
+INPUT_PICT:p2_21_0
+ANSWER_TEXT:22;16
+ANSWER_TEXT:10;32
+T2Q22
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнюю фигуру
+ANSWER_PICT:p2_22_1;p2_22_2;p2_22_3
+ANSWER_PICT:p2_22_4;p2_22_5;
+T2Q23
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки недостающее слово
+INPUT_PICT:p2_23_0
+ANSWER_TEXT:баба;газа
+ANSWER_TEXT:жаба;пузо
+T2Q24
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки слово, обозначающее в контексте то же самое, что два слова за скобками
+INPUT_PICT:p2_24_0
+ANSWER_TEXT:дуб;тик
+ANSWER_TEXT:сон;лён
+T2Q25
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите недостающее число
+INPUT_PICT:p2_25_0
+ANSWER_TEXT:572;758
+ANSWER_TEXT:386;452
+T2Q26
+ANSWER_COUNT:6;1
+INPUT_TEXT:Вставьте недостающую букву
+INPUT_PICT:p2_26_0
+ANSWER_TEXT:Ф;У;Х
+ANSWER_TEXT:К;Ь;О
+T2Q27
+ANSWER_COUNT:5;1
+INPUT_TEXT:Какая из фигур должна завершить верхний ряд
+INPUT_PICT:p2_27_0
+ANSWER_PICT:p2_27_1;p2_27_2;p2_27_3
+ANSWER_PICT:p2_27_4;p2_27_5
+T2Q28
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки пропущенное слово
+INPUT_PICT:p2_28_0
+ANSWER_TEXT:КРАЙ;КУРС
+ANSWER_TEXT:КУСТ;ЛОСК
+T2Q29
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки значимое слово, которое завершает первое слово и начинает второе
+INPUT_PICT:p2_29_0
+ANSWER_TEXT:нут;ост
+ANSWER_TEXT:руг;рай
+T2Q30
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p2_30_0
+ANSWER_PICT:p2_30_1;p2_30_2;p2_30_3
+ANSWER_PICT:p2_30_4;p2_30_5;p2_30_6
+T2Q31
+ANSWER_COUNT:5;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p2_31_0
+ANSWER_PICT:p2_31_1;p2_31_2;p2_31_3
+ANSWER_PICT:p2_31_4;p2_31_5
+T2Q32
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p2_32_0
+ANSWER_TEXT:15;7
+ANSWER_TEXT:1;2
+T2Q33
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:духи;шампунь
+ANSWER_TEXT:чопорность
+ANSWER_TEXT:аккуратность
+T2Q34
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте отсутствующий номер
+INPUT_PICT:p2_34_0
+ANSWER_TEXT:52;32
+ANSWER_TEXT:92;72
+T2Q35
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте цифру и букву в этой серии
+INPUT_PICT:p2_35_0
+ANSWER_TEXT:8 Т;6 Ф
+ANSWER_TEXT:6 Т;8 Ф
+T2Q36
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите слово, которое должно завершать предложение
+INPUT_PICT:p2_36_0
+ANSWER_TEXT:силы;секса
+ANSWER_TEXT:власти;питья
+ANSWER_TEXT:обжорства
+T2Q37
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки слово, обозначающее в контексте то же самое, что два слова за скобками
+INPUT_PICT:p2_37_0
+ANSWER_TEXT:лаг;флаг
+ANSWER_TEXT:путь;туз
+T2Q38
+ANSWER_COUNT:5;1
+INPUT_TEXT:Вставьте слово, завершающее предложение
+INPUT_PICT:p2_38_0
+ANSWER_TEXT:освобождению
+ANSWER_TEXT:повторению;обратному
+ANSWER_TEXT:уменьшению
+ANSWER_TEXT:перепродаже
+T2Q39
+ANSWER_COUNT:6;1
+INPUT_TEXT:Вставьте пропущенную букву
+INPUT_PICT:p2_39_0
+ANSWER_TEXT:Л;К;Ж
+ANSWER_TEXT:Е;И;З
+T2Q40
+ANSWER_COUNT:3;1
+INPUT_TEXT:Вставьте число, которое завершает серию
+INPUT_PICT:p2_40_0
+ANSWER_TEXT:5436;27
+ANSWER_TEXT:386
+TESTEND
+T3Q1
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p3_1_0
+ANSWER_TEXT:0;5
+ANSWER_TEXT:-5;15
+T3Q2
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:колесница;сани
+ANSWER_TEXT:автобус;фургон
+ANSWER_TEXT:автомобиль
+T3Q3
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите недостающее число
+INPUT_PICT:p3_3_0
+ANSWER_TEXT:36;72
+ANSWER_TEXT:38;74;32
+T3Q4
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:паук;пчела 
+ANSWER_TEXT:мотылёк;комар
+ANSWER_TEXT:муравей
+T3Q5
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите сочетание, образующее название самого маленького из перечисленных животных
+ANSWER_TEXT:шкаок;банка
+ANSWER_TEXT:фираж;ликсус
+ANSWER_TEXT:зобин 
+T3Q6
+ANSWER_COUNT:4;1
+INPUT_TEXT:Выберите существительное, к которому подходят оба прилагательных за скобками
+INPUT_PICT:p3_6_0
+ANSWER_TEXT:Палка;Рейка
+ANSWER_TEXT:Стойка;Доска
+T3Q7
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p3_7_0
+ANSWER_PICT:p3_7_1;p3_7_2;p3_7_3
+ANSWER_PICT:p3_7_4;p3_7_5;p3_7_6
+T3Q8
+ANSWER_COUNT:5;1
+INPUT_TEXT:Выберите слово, которое завершает первое слово и начинает второе
+INPUT_PICT:p3_8_0
+ANSWER_TEXT:кур;мёк;мок
+ANSWER_TEXT:пас;лог
+T3Q9
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p3_9_0;H
+ANSWER_PICT:p3_9_1;p3_9_2;p3_9_3
+ANSWER_PICT:p3_9_4;p3_9_5;p3_9_6
+T3Q10
+ANSWER_COUNT:6;1
+INPUT_TEXT:Вставьте недостающую букву
+INPUT_PICT:p3_10_0
+ANSWER_TEXT:В;И;Г
+ANSWER_TEXT:У;Ф;Д
+T3Q11
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите недостающее число
+INPUT_PICT:p3_11_0
+ANSWER_TEXT:33;29;35
+ANSWER_TEXT:21;22
+T3Q12
+ANSWER_COUNT:9;1
+INPUT_TEXT:Найдите лишнюю фигуру
+ANSWER_PICT:p3_12_1;p3_12_2;p3_12_3
+ANSWER_PICT:p3_12_4;p3_12_5;p3_12_6
+ANSWER_PICT:p3_12_7;p3_12_8;p3_12_9
+T3Q13
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите пропущенные числа
+INPUT_PICT:p3_13_0
+ANSWER_TEXT:6 11;7 13
+ANSWER_TEXT:9 14;7 11
+T3Q14
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p3_14_0;H
+ANSWER_PICT:p3_14_1;p3_14_2;p3_14_3
+ANSWER_PICT:p3_14_4;p3_14_5;p3_14_6
+T3Q15
+ANSWER_COUNT:4;1
+INPUT_TEXT:Выберите слово, к которому подходит любая из следующих приставок
+INPUT_PICT:p3_15_0
+ANSWER_TEXT:прав;лила
+ANSWER_TEXT:хват;гон
+T3Q16
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите недостающее слово
+INPUT_PICT:p3_16_0
+ANSWER_TEXT:обучаемый
+ANSWER_TEXT:машинный
+ANSWER_TEXT:мысленный
+ANSWER_TEXT:капризный
+T3Q17
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите недостающее число
+INPUT_PICT:p3_17_0;H
+ANSWER_TEXT:18;25
+ANSWER_TEXT:8;19
+T3Q18
+ANSWER_COUNT:6;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:икона;опера
+ANSWER_TEXT:театр;сталь
+ANSWER_TEXT:правда;дети
+T3Q19
+ANSWER_COUNT:4;1
+INPUT_TEXT:Выберите слово, которое завершает первое слово и начинает второе
+INPUT_PICT:p3_19_0
+ANSWER_TEXT:дуга;скат
+ANSWER_TEXT:спал;джа
+T3Q20
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите сочетание, не образующее мужское имя
+ANSWER_TEXT:нави;марет
+ANSWER_TEXT:ретбро
+ANSWER_TEXT:аревен
+T3Q21
+ANSWER_COUNT:3;1
+INPUT_TEXT:Вставьте недостающее число
+INPUT_PICT:p3_21_0
+ANSWER_TEXT:97;169
+ANSWER_TEXT:637
+T3Q22
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное слово
+INPUT_PICT:p3_22_0
+ANSWER_TEXT:обоз;роза
+ANSWER_TEXT:кара;мара
+T3Q23
+ANSWER_COUNT:3;1
+INPUT_TEXT:Выберите прилагательное, которое годится для описания обоих существительных за скобками
+INPUT_PICT:p3_23_0
+ANSWER_TEXT:верёвочный
+ANSWER_TEXT:ленточный
+ANSWER_TEXT:натянутый
+T3Q24
+ANSWER_COUNT:4;1
+INPUT_TEXT:Выберите лишнюю фигуру
+ANSWER_PICT:p3_24_1;p3_24_2;p3_24_3
+ANSWER_PICT:p3_24_4;p3_24_5
+T3Q25
+ANSWER_COUNT:6;1
+INPUT_TEXT:Найдите букву, которая завершает серию
+INPUT_PICT:p3_25_0
+ANSWER_TEXT:Р;О;К
+ANSWER_TEXT:П;Я;З
+T3Q26
+ANSWER_COUNT:6;1
+INPUT_TEXT:Вставьте недостающую букву
+INPUT_PICT:p3_26_0
+ANSWER_TEXT:С;У;Х
+ANSWER_TEXT:К;Ь;О
+T3Q27
+ANSWER_COUNT:4;1
+INPUT_TEXT:Какая из фигур завершает верхний ряд
+INPUT_PICT:p3_27_0
+ANSWER_PICT:p3_27_1;p3_27_2;
+ANSWER_PICT:p3_27_3;p3_27_4
+T3Q28
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки пропущенное слово
+INPUT_PICT:p3_28_0
+ANSWER_TEXT:ВОДА;СОДА
+ANSWER_TEXT:БАБА;ОВОД
+T3Q29
+ANSWER_COUNT:4;1
+INPUT_TEXT:Выберите слово, которое завершает первое слово и начинает второе(намек: напиток)
+INPUT_PICT:p2_29_0
+ANSWER_TEXT:жар;рад
+ANSWER_TEXT:ром;пая
+T3Q30
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p3_30_0;H
+ANSWER_PICT:p3_30_1;p3_30_2;p3_30_3
+ANSWER_PICT:p3_30_4;p3_30_5;p3_30_6
+T3Q31
+ANSWER_COUNT:5;1
+INPUT_TEXT:Вставьте пропущенную букву
+INPUT_PICT:p3_31_0;H
+ANSWER_TEXT:T;С
+ANSWER_TEXT:П;A
+T3Q32
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p3_32_0;H
+ANSWER_TEXT:7;14
+ANSWER_TEXT:20;21
+T3Q33
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:дорический
+ANSWER_TEXT:ионический
+ANSWER_TEXT:эгейский
+ANSWER_TEXT:коринфский
+T3Q34
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте недостающее число
+INPUT_PICT:p3_34_0
+ANSWER_TEXT:10;4
+ANSWER_TEXT:5;14
+T3Q35
+ANSWER_COUNT:4;1
+INPUT_TEXT:Выберите недостающие буквы
+INPUT_PICT:p3_35_0
+ANSWER_TEXT:М М;М Н
+ANSWER_TEXT:Н М;Н Н
+T3Q36
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур является следующей в серии
+INPUT_PICT:p3_36_0
+ANSWER_PICT:p3_36_1;p3_36_2;p3_36_3
+ANSWER_PICT:p3_36_4;p3_36_5;p3_36_6
+T3Q37
+ANSWER_COUNT:3;1
+INPUT_TEXT:Кого любит Сабрина
+INPUT_PICT:p3_37_0
+ANSWER_TEXT:Фёдор
+ANSWER_TEXT:Юрий;Яков
+T3Q38
+ANSWER_COUNT:4;1
+INPUT_TEXT:Я должен был встречаться со своей подругой ровно в полдень каждое воскресенье. В первый раз она пришла в 12.30, потом в 13.20, потом в 14.30, потом в 16.00. Когда она придет в следующий раз?
+ANSWER_TEXT:17:50;17:00
+ANSWER_TEXT:18:00;17:30
+T3Q39
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:АЗЕЕТРИВАС
+ANSWER_TEXT:ОГЕЕМАРМЕРАЕС
+ANSWER_TEXT:РЕАПИОЛОРЕЛОАРЕН
+ANSWER_TEXT:УВЕАРТИНЕАБОРА
+T3Q40
+ANSWER_COUNT:2;1
+INPUT_TEXT:Найдите пропущенные числа
+INPUT_PICT:p3_40_0
+ANSWER_TEXT:76 168
+ANSWER_TEXT:115 576
+TESTEND
+T4Q1
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p4_1_0
+ANSWER_TEXT:12;6
+ANSWER_TEXT:20;14
+T4Q2
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:Байрон;Шелли
+ANSWER_TEXT:Китс;Чосер
+ANSWER_TEXT:Чемберлен
+T4Q3
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p4_3_0
+ANSWER_PICT:p4_3_1;p4_3_2;p4_3_3
+ANSWER_PICT:p4_3_4;p4_3_5;p4_3_6
+T4Q4
+ANSWER_COUNT:5;1
+INPUT_TEXT:Вставьте недостающее число
+INPUT_PICT:p4_4_0
+ANSWER_TEXT:40;70;69
+ANSWER_TEXT:120;99
+T4Q5
+ANSWER_COUNT:6;1
+INPUT_TEXT:Найдите лишнее название города
+ANSWER_TEXT:Шанхай;Дели
+ANSWER_TEXT:Новый орлеан
+ANSWER_TEXT:Лхаса;Каир
+ANSWER_TEXT:Квебек
+T4Q6
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите сочетание, не образующее название футбольной команды
+ANSWER_TEXT:СЕНАЛАР;АЛЕР
+ANSWER_TEXT:ТРИНЕ;ПИНОКРОС
+ANSWER_TEXT:ПАСКАРТ
+T4Q7
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки недостающее слово
+INPUT_PICT:p4_7_0
+ANSWER_TEXT:Острый;Твёрдый
+ANSWER_TEXT:Квадратный
+ANSWER_TEXT:Прямоугольный
+T4Q8
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте недостающее число
+INPUT_PICT:p4_8_0;H
+ANSWER_TEXT:64;2
+ANSWER_TEXT:32;56
+T4Q9
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p4_9_0
+ANSWER_PICT:p4_9_1;p4_9_2;p4_9_3
+ANSWER_PICT:p4_9_4;p4_9_5;p4_9_6
+T4Q10
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки значимое слово, которое завершает первое слово и начинает второе (намек: светильник)
+INPUT_PICT:p4_10_0
+ANSWER_TEXT:Бра;Тик
+ANSWER_TEXT:Шум;Пат
+T4Q11
+ANSWER_COUNT:6;2
+INPUT_TEXT:Выберите два рисунка, не образующих пару
+ANSWER_PICT:p4_11_1;p4_11_2;p4_11_3
+ANSWER_PICT:p4_11_4;p4_11_5;p4_11_6
+T4Q12
+ANSWER_COUNT:6;1
+INPUT_TEXT:Вставьте недостающую букву
+INPUT_PICT:p4_12_0
+ANSWER_TEXT:Я;П;Р
+ANSWER_TEXT:Э;Б;К
+T4Q13
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите недостающее число
+INPUT_PICT:p4_13_0
+ANSWER_TEXT:79;76
+ANSWER_TEXT:78;88
+T4Q14
+ANSWER_COUNT:6;1
+INPUT_TEXT:Выберите слово, к которому подходит любая из следующих приставок
+INPUT_PICT:p4_14_0
+ANSWER_TEXT:Ход;Клад
+ANSWER_TEXT:Став;Гон
+T4Q15
+ANSWER_COUNT:6;2
+INPUT_TEXT:Какие слова должны быть в скобках
+INPUT_PICT:p4_15_0
+ANSWER_TEXT:пасьянс;крик;вист
+ANSWER_TEXT:дурак;свист;гром
+T4Q16
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите пропущенное число
+INPUT_PICT:p4_16_0
+ANSWER_TEXT:5;14
+ANSWER_TEXT:4;12
+T4Q17
+ANSWER_COUNT:6;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:сода;доза
+ANSWER_TEXT:казак;заказ
+ANSWER_TEXT:доска;кадка
+T4Q18
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки значимое слово, которое завершает первое слово и начинает второе (намек: путь)
+INPUT_PICT:p4_18_0
+ANSWER_TEXT:вой;спект
+ANSWER_TEXT:воин;тракт
+T4Q19
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p4_19_0
+ANSWER_PICT:p4_19_1;p4_19_2;p4_19_3
+ANSWER_PICT:p4_19_4;p4_19_5;p4_19_6
+T4Q20
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите сочетание, не образующее женское имя
+ANSWER_TEXT:наири;анифозеж
+ANSWER_TEXT:уртиян;алиноп
+T4Q21
+ANSWER_COUNT:3;1
+INPUT_TEXT:Вставьте недостающее число
+INPUT_PICT:p4_21_0
+ANSWER_TEXT:27;21
+ANSWER_TEXT:162
+T4Q22
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнюю фигуру
+ANSWER_PICT:p4_22_1;p4_22_2;p4_22_3
+ANSWER_PICT:p4_22_4;p4_22_5
+T4Q23
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки пропущенное число
+INPUT_PICT:p4_23_0
+ANSWER_TEXT:900;88
+ANSWER_TEXT:963;388
+T4Q24
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки существительное, к которому подходят оба прилагательных за скобками
+INPUT_PICT:p4_24_0
+ANSWER_TEXT:слух;приклад
+ANSWER_TEXT:колокол;автомат
+T4Q25
+ANSWER_COUNT:5;1
+INPUT_TEXT:Какая из фигур должна завершить верхний ряд
+INPUT_PICT:p4_25_0
+ANSWER_PICT:p4_25_1;p4_25_2;p4_25_3
+ANSWER_PICT:p4_25_4;p4_25_5
+T4Q26
+ANSWER_COUNT:5;1
+INPUT_TEXT:Выберите сочетание, не образующее фамилию кинозвезды
+ANSWER_TEXT:НОРОМ;РОДАБ
+ANSWER_TEXT:ТАРИП;НИЧПАЛ
+ANSWER_TEXT:РОЙЛЕТ
+T4Q27
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенную букву
+INPUT_PICT:p4_27_0
+ANSWER_TEXT:Н;Е
+ANSWER_TEXT:М;У
+T4Q28
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна занять свободное место
+INPUT_PICT:p4_28_0
+ANSWER_PICT:p4_28_1;p4_28_2;p4_28_3
+ANSWER_PICT:p4_28_4;p4_28_5;p4_28_6
+T4Q29
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки пропущенное число
+INPUT_PICT:p4_29_0
+ANSWER_TEXT:689;682
+ANSWER_TEXT:412;421
+T4Q30
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая из фигур должна завершить серию
+INPUT_PICT:p4_30_0
+ANSWER_PICT:p4_30_1;p4_30_2;p4_30_3
+ANSWER_PICT:p4_30_4;p4_30_5;p4_30_6
+T4Q31
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p4_31_0
+ANSWER_TEXT:9;7
+ANSWER_TEXT:13;5
+T4Q32
+ANSWER_COUNT:6;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:апломб;город
+ANSWER_TEXT:боров;ворот
+ANSWER_TEXT:мерин;сонет
+T4Q33
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки значимое слово, которое завершает первое слово и начинает второе
+INPUT_PICT:p4_33_0
+ANSWER_TEXT:пор;быт
+ANSWER_TEXT:хват;кон
+T4Q34
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенную букву
+INPUT_PICT:p4_34_0;H
+ANSWER_TEXT:М;О
+ANSWER_TEXT:Ю;Р
+T4Q35
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p4_35_0
+ANSWER_TEXT:89;86
+ANSWER_TEXT:32;102
+T4Q36
+ANSWER_COUNT:6;2
+INPUT_TEXT:Выберите пропущенные буквы
+INPUT_PICT:p4_36_0
+ANSWER_TEXT:И;Т;Ж
+ANSWER_TEXT:Ф;К;О
+T4Q37
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки значимое слово, которое завершает первое слово и начинает второе
+INPUT_PICT:p4_37_0
+ANSWER_TEXT:марка;приз
+ANSWER_TEXT:бриз;корд
+T4Q38
+ANSWER_COUNT:3;1
+INPUT_TEXT:Кирилл знает, где кошка. Архип знает, где собака. Андрей знает, где жираф. Что дальше?
+ANSWER_TEXT:Михаил знает, где крыса
+ANSWER_TEXT:Семен знает, где свинья
+ANSWER_TEXT:Валерий знает, где паук
+T4Q39
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенную букву
+INPUT_PICT:p4_39_0
+ANSWER_TEXT:Щ;О
+ANSWER_TEXT:Ш;Ю
+T4Q40
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте недостающее число
+INPUT_PICT:p4_40_0
+ANSWER_TEXT:112;114
+ANSWER_TEXT:110;96
+TESTEND
+T5Q1
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенную букву
+INPUT_PICT:p5_1_0
+ANSWER_TEXT:Л;К
+ANSWER_TEXT:М;Н
+T5Q2
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:Рембрандт;Моне
+ANSWER_TEXT:Рафаэль;Шекспир
+ANSWER_TEXT:Тинторетто
+T5Q3
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая фигура должна занять свободное место
+INPUT_PICT:p5_3_0;H
+ANSWER_PICT:p5_3_1;p5_3_2;p5_3_3
+ANSWER_PICT:p5_3_4;p5_3_5;p5_3_6
+T5Q4
+ANSWER_COUNT:5;1
+INPUT_TEXT:Вставьте недостающее число
+INPUT_PICT:p5_4_0
+ANSWER_TEXT:74;75;64
+ANSWER_TEXT:79;99
+T5Q5
+ANSWER_COUNT:6;1
+INPUT_TEXT:Найдите лишнее название
+ANSWER_TEXT:акула;скат
+ANSWER_TEXT:палтус;камбала
+ANSWER_TEXT:селедка;дельфин
+T5Q6
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите город, который находится в Англии
+ANSWER_TEXT:РНИБЕЛ;ДАМДРИ
+ANSWER_TEXT:ТРЕЧСИЧЕ;ЖАРИП
+T5Q7
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки недостающее слово
+INPUT_PICT:p5_7_0
+ANSWER_TEXT:ласта;подвал
+ANSWER_TEXT:нырок;омут
+T5Q8
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте недостающее число
+INPUT_PICT:p5_8_0;H
+ANSWER_TEXT:369;469
+ANSWER_TEXT:322;419
+T5Q9
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая фигура должна занять свободное место
+INPUT_PICT:p5_9_0
+ANSWER_PICT:p5_9_1;p5_9_2;p5_9_3
+ANSWER_PICT:p5_9_4;p5_9_5;p5_9_6
+T5Q10
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки слово, которое завершает первое слово и начинает второе
+INPUT_PICT:p5_10_0
+ANSWER_TEXT:гул;маз
+ANSWER_TEXT:зад;бег
+T5Q11
+ANSWER_COUNT:6;2
+INPUT_TEXT:Найдите два рисунка, не образующих пару
+ANSWER_PICT:p5_11_1;p5_11_2;p5_11_3
+ANSWER_PICT:p5_11_4;p5_11_5;p5_11_6
+T5Q12
+ANSWER_COUNT:4;1
+INPUT_TEXT:Выберите слово, к которому подходит любая из следующих приставок
+INPUT_PICT:p5_12_0
+ANSWER_TEXT:ход;хват
+ANSWER_TEXT:чёс;нос
+T5Q13
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая фигура должна занять свободное место
+INPUT_PICT:p5_13_0;H
+ANSWER_PICT:p5_13_1;p5_13_2;p5_13_3
+ANSWER_PICT:p5_13_4;p5_13_5;p5_13_6
+T5Q14
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенную букву
+INPUT_PICT:p5_14_0
+ANSWER_TEXT:Щ;Ш
+ANSWER_TEXT:У;О
+T5Q15
+ANSWER_COUNT:6;2
+INPUT_TEXT:Какие слова должны быть в скобках
+INPUT_PICT:p5_15_0
+ANSWER_TEXT:тон;вой;нота
+ANSWER_TEXT:плач;стон;крик
+T5Q16
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите пропущенное число
+INPUT_PICT:p5_16_0
+ANSWER_TEXT:5;3
+ANSWER_TEXT:4;7
+T5Q17
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите слово, которое сочетается со словами ЛЕВ КОНЕК КАПУСТА
+ANSWER_TEXT:мышь;роза
+ANSWER_TEXT:корень;котик
+T5Q18
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите сочетание, не образующее название животного
+ANSWER_TEXT:ВЕРСКОЧ;БАКАТ
+ANSWER_TEXT:ЕЗУДАМ;ТРОК
+T5Q19
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p5_19_0
+ANSWER_TEXT:49;14
+ANSWER_TEXT:16;17
+T5Q20
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки значимое слово, которое завершает первое слово и начинает второе (намек: морской)
+INPUT_PICT:p5_20_0
+ANSWER_TEXT:крот;крат
+ANSWER_TEXT:порт;хлам
+T5Q21
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнюю фигуру
+ANSWER_PICT:p5_21_1;p5_21_2;p5_21_3
+ANSWER_PICT:p5_21_4;p5_21_5
+T5Q22
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки пропущенное слово
+INPUT_PICT:p5_22_0
+ANSWER_TEXT:баба;брак
+ANSWER_TEXT:бунт;краб
+T5Q23
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите город, который не находится в Англии
+ANSWER_TEXT:ТАЙРОНБ;ТРЭСЕКЕ
+ANSWER_TEXT:ДОЛНОН;БУЛДИН
+T5Q24
+ANSWER_COUNT:4;1
+INPUT_TEXT:Выберите существительное, к которому подходят оба прилагательных за скобками
+INPUT_PICT:p5_24_0
+ANSWER_TEXT:приём;порог
+ANSWER_TEXT:уклон;импульс
+T5Q25
+ANSWER_COUNT:5;1
+INPUT_TEXT:Какая фигура должна занять свободное место
+INPUT_PICT:p5_25_0
+ANSWER_PICT:p5_25_1;p5_25_2;p5_25_3
+ANSWER_PICT:p5_25_4;p5_25_5
+T5Q26
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p5_26_0
+ANSWER_TEXT:63;47
+ANSWER_TEXT:64;49
+T5Q27
+ANSWER_COUNT:4;2
+INPUT_TEXT:Выберите пропущенные буквы
+INPUT_PICT:p5_27_0
+ANSWER_TEXT:М;У
+ANSWER_TEXT:Н;Е
+T5Q28
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте в скобки пропущенное слово
+INPUT_PICT:p5_28_0
+ANSWER_TEXT:агат;ара
+ANSWER_TEXT:уран;нара
+T5Q29
+ANSWER_COUNT:6;1
+INPUT_TEXT:Какая фигура должна занять свободное место
+INPUT_PICT:p5_29_0;H
+ANSWER_PICT:p5_29_1;p5_29_2;p5_29_3
+ANSWER_PICT:p5_29_4;p5_29_5;p5_29_6
+T5Q30
+ANSWER_COUNT:3;1
+INPUT_TEXT:Вставьте в скобки значимое слово, которое завершает первое слово и начинает второе
+INPUT_PICT:p5_30_0
+ANSWER_TEXT:вой;такт
+ANSWER_TEXT:тракт
+T5Q31
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенную букву
+INPUT_PICT:p5_31_0
+ANSWER_TEXT:T;С
+ANSWER_TEXT:П;A
+T5Q32
+ANSWER_COUNT:5;1
+INPUT_TEXT:Найдите лишнее слово
+ANSWER_TEXT:палата;теремок
+ANSWER_TEXT:лазурит;бисквит
+ANSWER_TEXT:аорта
+T5Q33
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте недостающую букву
+INPUT_PICT:p5_33_0
+ANSWER_TEXT:Ф;Ч
+ANSWER_TEXT:У;К
+T5Q34
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенную цифру
+INPUT_PICT:p5_34_0
+ANSWER_TEXT:10;11
+ANSWER_TEXT:4;32
+T5Q35
+ANSWER_COUNT:4;1
+INPUT_TEXT:Какая фигура должна занять пустое место
+INPUT_PICT:p5_35_0
+ANSWER_PICT:p5_35_1;p5_35_2
+ANSWER_PICT:p5_35_3;p5_35_4
+T5Q36
+ANSWER_COUNT:6;2
+INPUT_TEXT:Выберите цифру и букву в этой серии
+INPUT_PICT:p5_36_0
+ANSWER_TEXT:6;Ф;Т
+ANSWER_TEXT:8;К;9
+T5Q37
+ANSWER_COUNT:4;1
+INPUT_TEXT:На спиритическом сеансе медиум вызвал дух Иакова, Кромвеля и Мольера. Кого он вызовет следующим?
+ANSWER_TEXT:Авраама;Ламарка
+ANSWER_TEXT:Овидия
+ANSWER_TEXT:Виллингтона
+T5Q38
+ANSWER_COUNT:4;1
+INPUT_TEXT:Найдите лишнее число
+ANSWER_TEXT:739;1341
+ANSWER_TEXT:522;1862
+T5Q39
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте пропущенное число
+INPUT_PICT:p5_39_0
+ANSWER_TEXT:1560;1552
+ANSWER_TEXT:1332;1540
+T5Q40
+ANSWER_COUNT:4;1
+INPUT_TEXT:Вставьте недостающее число
+INPUT_PICT:p5_40_0
+ANSWER_TEXT:216;314
+ANSWER_TEXT:12;96
+TESTEND

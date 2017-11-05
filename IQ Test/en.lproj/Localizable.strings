@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  IQ Test
+
+  Created by Admin on 06.09.17.
+  Copyright © 2017 Nikita. All rights reserved.
+*/
+
+"Correct!" = "Correct!";
+"Fail!" = "Fail!";
+"Not answered" = "Not answered";
+
+
+
+"Your answer:" = "Your answer:";
+"Correct answer:" = "Correct answer:";
+"Your best score is:" = "Your best score is:";
+"correct\nYour max IQ is" = "correct\nYour max IQ is";
+"\nTime: " = "\nTime: ";
+"Complete tests to see your records!" = "Complete tests to see your records!";
+
+"IQ TESTS" = "IQ TESTS";
+"◀︎ Menu" = "◀︎ Menu";
+
+"BACK" = "BACK";
+"FINISH" = "FINISH";
+"Back" = "Back";
+"Really want to get back?" = "Really want to get back?";
+"Yes" = "Yes";
+"No" = "No";
+"Finish" = "Finish";
+"Want to see results?" = "Want to see results?";
+"Yes" = "Yes";
+"Not now" = "Not now";
+"Your time is over ⏱\n\n" = "Your time is over ⏱\n\n";
+"You answered correctly on" = "You answered correctly on";
+"/40\nYour IQ -" = "/40\nYour IQ -";
+
+"ANSWERS" = "ANSWERS";
+"RESULTS" = "RESULTS";
+"Back to Tests" = "Back to Tests";
+"Want another test" = "Want another test";
+
+"RECORDS" = "RECORDS";
+
+"SETTINGS" = "SETTINGS";
+"Reset records" = "Reset records";
+"Are you sure you want to reset? All your progress will be deleted" = "Are you sure you want to reset? All your progress will be deleted";
+"Records are reseted" = "Records are reseted";
+"Now you can pass tests again!" = "Now you can pass tests again!";
+"Ok" = "Ok";
+
+"questions-en.txt" = "questions-en.txt";
+"answers-en.txt" = "answers-en.txt";
+"drawable-en" = "drawable-en";

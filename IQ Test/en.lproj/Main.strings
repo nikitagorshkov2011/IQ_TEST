@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "View correct answers"; ObjectID = "2wb-k4-f3s"; */
+"2wb-k4-f3s.normalTitle" = "View correct answers";
+
+/* Class = "UIButton"; normalTitle = "◀︎"; ObjectID = "3Vy-UI-GdJ"; */
+"3Vy-UI-GdJ.normalTitle" = "◀︎";
+
+/* Class = "UIButton"; normalTitle = "SELECT TEST"; ObjectID = "90k-Tx-uGU"; */
+"90k-Tx-uGU.normalTitle" = "SELECT TEST";
+
+/* Class = "UIButton"; normalTitle = "Test 1"; ObjectID = "9mK-or-Uba"; */
+"9mK-or-Uba.normalTitle" = "Test 1";
+
+/* Class = "UIButton"; normalTitle = "RESET PROGRESS"; ObjectID = "Ar6-D7-I8P"; */
+"Ar6-D7-I8P.normalTitle" = "RESET PROGRESS";
+
+/* Class = "UIButton"; normalTitle = "View correct answers"; ObjectID = "DhE-2s-lFy"; */
+"DhE-2s-lFy.normalTitle" = "View correct answers";
+
+/* Class = "UIButton"; normalTitle = "View correct answers"; ObjectID = "EQi-h7-51e"; */
+"EQi-h7-51e.normalTitle" = "View correct answers";
+
+/* Class = "UIButton"; normalTitle = "Test 4"; ObjectID = "NkD-lf-vBs"; */
+"NkD-lf-vBs.normalTitle" = "Test 4";
+
+/* Class = "UIButton"; normalTitle = "SETTINGS"; ObjectID = "PAf-FD-ebi"; */
+"PAf-FD-ebi.normalTitle" = "SETTINGS";
+
+/* Class = "UIButton"; normalTitle = "Test 5"; ObjectID = "PNT-dP-5iV"; */
+"PNT-dP-5iV.normalTitle" = "Test 5";
+
+/* Class = "UIButton"; normalTitle = "YOUR RECORDS"; ObjectID = "Rxc-Q6-RMD"; */
+"Rxc-Q6-RMD.normalTitle" = "YOUR RECORDS";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "Znl-bd-Kbc"; */
+"Znl-bd-Kbc.text" = "10";
+
+/* Class = "UIButton"; normalTitle = "View correct answers"; ObjectID = "cit-YM-vk2"; */
+"cit-YM-vk2.normalTitle" = "View correct answers";
+
+/* Class = "UIButton"; normalTitle = "Test 3"; ObjectID = "dkW-OE-oJK"; */
+"dkW-OE-oJK.normalTitle" = "Test 3";
+
+/* Class = "UIButton"; normalTitle = "Test 2"; ObjectID = "fWE-pN-dZf"; */
+"fWE-pN-dZf.normalTitle" = "Test 2";
+
+/* Class = "UIButton"; normalTitle = "▶︎"; ObjectID = "gw3-qa-pR5"; */
+"gw3-qa-pR5.normalTitle" = "▶︎";
+
+/* Class = "UIButton"; normalTitle = "View correct answers"; ObjectID = "qVX-tM-309"; */
+"qVX-tM-309.normalTitle" = "View correct answers";
+
+/* Class = "UIButton"; normalTitle = "Not Answered"; ObjectID = "tfs-Ef-XUr"; */
+"tfs-Ef-XUr.normalTitle" = "Not Answered";

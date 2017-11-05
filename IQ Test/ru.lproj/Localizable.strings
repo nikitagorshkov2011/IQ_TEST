@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  IQ Test
+
+  Created by Admin on 06.09.17.
+  Copyright © 2017 Nikita. All rights reserved.
+*/
+
+"Correct!" = "Верно!";
+"Fail!" = "Неверно!";
+"Not answered" = "Нет ответа";
+
+
+
+"Your answer:" = "Ваш ответ:";
+"Correct answer:" = "Правильный ответ:";
+"Your best score is:" = "Ваш лучший результат:";
+"correct\nYour max IQ is" = "/40\nВаш IQ равен";
+"\nTime: " = "\nЛучшее время: ";
+"Complete tests to see your records!" = "Выполняйте тесты, чтобы узнать ваш IQ!";
+
+"IQ TESTS" = "IQ Тест";
+"◀︎ Menu" = "◀︎ Назад";
+
+"BACK" = "◀︎ Назад";
+"FINISH" = "Закончить";
+"Back" = "Покинуть тест";
+"Really want to get back?" = "Вы уверены? Ваш результат не будет сохранен";
+"Yes" = "Да";
+"No" = "Нет";
+"Finish" = "Перейти к результатам";
+"Want to see results?" = "Уверены что хотите закончить? У вас еще осталось время для ответа";
+"Yes" = "Да";
+"Not now" = "Нет";
+"Your time is over ⏱\n\n" = "Ваше время на тест вышло ⏱\n\n";
+"You answered correctly on" = "Вы ответили правильно на";
+"/40\nYour IQ -" = "/40\nВаш IQ -";
+
+"ANSWERS" = "ОТВЕТЫ";
+"RESULTS" = "РЕЗУЛЬТАТЫ";
+"Back to Tests" = "Назад к тестам";
+"Want another test" = "Want another test";
+
+"RECORDS" = "РЕЗУЛЬТАТЫ";
+
+"SETTINGS" = "НАСТРОЙКИ";
+"Reset records" = "Сбросить результаты";
+"Are you sure you want to reset? All your progress will be deleted" = "Вы уверены, что хотите сбросить результаты? Все данные будут удалены";
+"Records are reseted" = "Результаты сброшены";
+"Now you can pass tests again!" = "Теперь вы можете пройти тесты снова!";
+"Ok" = "Ок";
+
+"questions-en.txt" = "questions-ru.txt";
+"answers-en.txt" = "answers-ru.txt";
+"drawable-en" = "drawable-ru";
