@@ -273,6 +273,10 @@ class QuestionViewController: UIViewController {
         defaults.set(records, forKey: "RecordsForTests")
     }
     
+    func testfunc (_ test: Int) -> Int {
+        return 0
+    }
+    
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         
         if let resultViewController = segue.destination as? ResultViewController{
